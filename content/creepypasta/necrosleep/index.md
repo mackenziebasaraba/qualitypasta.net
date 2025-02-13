@@ -1,14 +1,20 @@
 ---
 title: Necrosleep
 date: 2025-02-08T17:47:06-07:00
+lastmod: 2014-11-25T17:47:06-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
-    -
+    - Blogs
+    - Diaries and Journals
+    - Computers and Internet
+    - Medicine
 authors:
     - Lemniscate64
+links:
+    - "[Necrosleep - Creepypasta Wiki](https://creepypasta.fandom.com/wiki/Necrosleep)"
 build:
     list: 
     publishResources: 

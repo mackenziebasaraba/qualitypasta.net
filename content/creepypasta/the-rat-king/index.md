@@ -1,14 +1,18 @@
 ---
 title: The Rat King
 date: 2025-02-08T17:47:06-07:00
+date: 2017-07-08T17:47:06-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
-    -
+    - Cryptids
+    - Nature
 authors:
     - Anderson "Doctor Bleed" Steele
+links:
+    - "[The Rat King](https://creepypasta.fandom.com/wiki/The_Rat_King)"
 build:
     list: 
     publishResources: 

@@ -1,20 +1,36 @@
 ---
 title: Penpal
 date: 2025-02-13T00:19:20-07:00
+lastmod: 2011-10-02T00:19:20-07:00
 type:
 layout:
 description:
 thumbnail:
 authors:
-    - 1000Vultures
+    - Dathan Auerbach
 tags:
-    - 
+    - Crime
+    - Stalker
+links:
+    - "[*Penpal*](https://1000vultures.com/penpal)"
+    - "[Footsteps](http://www.reddit.com/r/nosleep/comments/k8ktr/footsteps/)"
+    - "[Balloons](http://www.reddit.com/r/nosleep/comments/kcl8q/balloons/)"
+    - "[Boxes](http://www.reddit.com/r/nosleep/comments/kg0jf/boxes/)"
+    - "[Maps](http://www.reddit.com/r/nosleep/comments/kl1cd/maps/)"
+    - "[Screens](http://www.reddit.com/r/nosleep/comments/krdm0/screens/)"
+    - "[Friends](http://www.reddit.com/r/nosleep/comments/kyshm/friends/)"
 build:
     list: 
     publishResources: 
     render: 
 draft: false
 ---
+
+{{< disclaimer >}}
+After garnering considerable fanfare on r/nosleep Dathan Auerbach, the author, has released an amazing full-length revision of *Penpal*. Consider [purchasing a copy](https://1000vultures.com/penpal) to support his work.
+{{</disclaimer>}}
+
+[<figure><img src="penpal-cover.jpg"></figure>](https://1000vultures.com/penpal)
 
 {{< toc >}}
 

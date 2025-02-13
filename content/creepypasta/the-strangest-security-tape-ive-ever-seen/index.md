@@ -1,14 +1,17 @@
 ---
 title: The Strangest Security Tape I've Ever Seen
 date: 2025-02-13T00:27:18-07:00
+lastmod: 2012-05-23T00:27:18-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
-    -
+    - Jobs and Occupations
 authors:
-    - Phil Zona
+    - powerhawkmash
+links:
+    - "[The Strangest Security Tape I've Ever Seen](https://www.reddit.com/r/nosleep/comments/u0ymh/the_strangest_security_tape_ive_ever_seen/)"
 build:
     list: 
     publishResources: 

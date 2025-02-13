@@ -1,9 +1,25 @@
 ---
 date: '2025-02-10T21:36:18-07:00'
+lastmod: '2016-07-14T21:36:18-07:00'
 draft: false
 title: "I'm a Search and Rescue Officer for the US Forest Service, I Have Some Stories to Tell"
+tags:
+    - Cryptids
+    - Nature
 authors:
     - searchandrescuewoods
+links:
+    - "[I'm a Search and Rescue Officer for the US Forest Service, I have some stories to tell](https://www.reddit.com/r/nosleep/comments/3iex1h/im_a_search_and_rescue_officer_for_the_us_forest/)"
+    - "[I'm a Search and Rescue Officer for the US Forest Service, I have some stories to tell (Part 2!)](https://www.reddit.com/r/nosleep/comments/3ijnt6/im_a_search_and_rescue_officer_for_the_us_forest/)"
+    - "[I'm a Search and Rescue Officer for the US Forest Service, I have some stories to tell (Part 3!)](https://www.reddit.com/r/nosleep/comments/3iocju/im_a_search_and_rescue_officer_for_the_us_forest/)"
+    - "[I'm a Search and Rescue Officer for the US Forest Service, I have some stories to tell (Part 4!)](https://www.reddit.com/r/nosleep/comments/3jadum/im_a_search_and_rescue_officer_for_the_us_forest/)"
+    - "[I'm a Search and Rescue Officer for the US Forest Service, I have some stories to tell (Part 5!)](https://www.reddit.com/r/nosleep/comments/3kd90k/im_a_search_and_rescue_officer_for_the_us_forest/)"
+    - "[I'm a Search and Rescue Officer for the US Forest Service, I have some stories to tell (Part 6!)](https://www.reddit.com/r/nosleep/comments/3ppq81/im_a_search_and_rescue_officer_for_the_us_forest/)"
+    - "[I'm a Search and Rescue Officer for the US Forest Service, I have some stories to tell (Part 7!)](https://www.reddit.com/r/nosleep/comments/3sktwj/im_a_search_and_rescue_officer_for_the_us_forest/)"
+    - "[I'm a Search and Rescue Officer for the US Forest Service, I have some stories to tell (Final Update)](https://www.reddit.com/r/nosleep/comments/3ydj67/im_a_search_and_rescue_officer_for_the_us_forest/)"
+    - "[I'm An SaR Officer... (Update 1)](https://www.reddit.com/r/nosleep/comments/4r2kvl/im_an_sar_officer_update_1/)"
+    - "[I'm an SaR Officer... (Update #2)](https://www.reddit.com/r/nosleep/comments/4r835f/im_an_sar_officer_update_2/)"
+
 ---
 
 {{< toc >}}

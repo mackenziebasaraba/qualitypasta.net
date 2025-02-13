@@ -1,14 +1,18 @@
 ---
 title: NoEnd House
 date: 2025-02-13T00:36:11-07:00
+lastmod: 2011-06-30T00:36:11-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
-    -
+    - Haunted House
+    - Paranormal
 authors:
     - Brian Russell
+links:
+    - "[From Brian's Desk](https://frombriansdesk.blogspot.com/)"
 build:
     list: 
     publishResources: 

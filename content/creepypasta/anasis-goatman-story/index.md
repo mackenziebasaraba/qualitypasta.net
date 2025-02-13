@@ -1,24 +1,22 @@
 ---
 title: Anansi's Goatman Story
 date: 2012-09-28T16:01:31-07:00
+lastmod: 2012-09-28T16:01:31-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
-    -
-author:
-    - Anonymous
+    - Cryptids
+    - Nature
+links:
+    - "[Archive of the /x/ thread](https://web.archive.org/web/20171009182212/http://archive.is/nNBoQ)"
 build:
     list: 
     publishResources: 
     render: 
 draft: false
 ---
-
-{{<disclaimer>}}
-This is a transcription of an /x/ thread originally posted on Friday September 28th, 2012 at 1:31 EST. You can read an archive of the original thread [here](https://web.archive.org/web/20171009182212/http://archive.is/nNBoQ).
-{{</disclaimer>}}
 
 {{<greentext>}}
 - be 16

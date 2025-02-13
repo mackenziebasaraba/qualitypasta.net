@@ -1,12 +1,14 @@
 ---
 title: Memories of the Graveyard Shift
 date: 2025-02-13T00:41:47-07:00
+lastmod: 2024-08-21T00:41:47-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
-    -
+    - Jobs and Occupations
+    - Paranormal
 authors:
     - D.D. Howard
 build:

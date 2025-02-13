@@ -1,14 +1,21 @@
 ---
 title: How to Survive in Hell
 date: 2025-02-08T17:47:06-07:00
+lastmod: 2017-04-06T17:47:06-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
-    -
+    - Demon
+    - Hell
 authors:
     - Ratrotted
+links:
+    - "[How to survive in Hell](https://www.reddit.com/r/nosleep/comments/63ubzl/how_to_survive_in_hell/)"
+    - "[How to survive in Hell: Part 2](https://www.reddit.com/r/nosleep/comments/646sx0/how_to_survive_in_hell_part_2/)"
+    - "[How to survive in Hell: Part 3 (Final)](https://www.reddit.com/r/nosleep/comments/64lsyd/how_to_survive_in_hell_part_3_final/)"
+    - "[How to Survive in Hell: Part 4](https://www.reddit.com/r/nosleep/comments/x2h5jg/how_to_survive_in_hell_part_4/)"
 build:
     list: 
     publishResources: 

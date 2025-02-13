@@ -1,12 +1,14 @@
 ---
 title: I Found a Digital Camera in the Woods
 date: 2025-02-13T11:02:11-07:00
+lastmod: 2011-06-12T11:02:11-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
-    -
+    - Nature
+    - Photography
 authors:
     - SidOreos
 build:

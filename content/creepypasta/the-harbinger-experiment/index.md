@@ -1,12 +1,15 @@
 ---
 title: The Harbinger Experiment
 date: 2025-02-08T17:22:50-07:00
+lastmod: 2013-12-20T17:22:50-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
-    -
+    - Demons
+    - Paranormal
+    - Science
 authors:
     - Zyon J
 build:

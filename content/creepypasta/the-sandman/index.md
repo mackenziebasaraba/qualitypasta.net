@@ -1,9 +1,15 @@
 ---
 date: '2025-02-09T02:54:38-07:00'
+lastmod: '2013-06-17T02:54:38-07:00'
 draft: false
 title: 'The Sandman'
+tags:
+    - Paranormal
+    - Creatures
 authors:
     - Tam Lin
+links:
+    - "[The Sandman](https://www.creepypasta.com/the-sandman/)"
 ---
 
 > “Those who dream by day are cognizant of many things that escape those who dream only at night."

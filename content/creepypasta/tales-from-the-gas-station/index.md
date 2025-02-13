@@ -1,14 +1,26 @@
 ---
 title: Tales from the Gas Station
 date: 2025-02-08T17:47:06-07:00
+lastmod: 2020-03-23T17:47:06-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
-    -
+    - Comedic
+    - Eldrich Horrors
+    - Jobs and Occupations
+    - Mental Illness
 authors:
     - Jack Townsend
+links:
+    - "[Tales from the Gas Station](https://www.gasstationjack.com/post/the-dark-god-part-1)"
+    - "[The Dark God (Part 2)](https://www.gasstationjack.com/post/the-dark-god-part-2)"
+    - "[The Dark God (Part 3)](https://www.gasstationjack.com/post/the-dark-god-part-3)"
+    - "[The Dark God (Part 5)](https://www.gasstationjack.com/post/the-dark-god-part-3)"
+    - "[The Dark God (Part 6)](https://www.gasstationjack.com/post/the-dark-god-part-6)"
+    - "[The Dark God (Part 7)](https://www.gasstationjack.com/post/the-dark-god-part-7)"
+    - "[The Dark God (Part 8)](https://www.gasstationjack.com/post/the-dark-god-part-8)"
 build:
     list: 
     publishResources: 

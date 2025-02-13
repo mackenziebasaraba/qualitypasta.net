@@ -1,14 +1,17 @@
 ---
 title: The Showers
 date: 2025-02-08T16:55:59-07:00
+date: 2012-09-26T16:55:59-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
-    -
+    - Places
 authors:
     - clover10176
+links:
+    - "[The Showers](https://www.reddit.com/r/nosleep/comments/10hpmi/the_showers/)"
 build:
     list: 
     publishResources: 

@@ -1,14 +1,17 @@
 ---
 title: On the Bus
 date: 2025-02-13T00:52:40-07:00
+lastmod: 2013-09-17T00:52:40-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
-    -
+    - Paranormal
 authors:
     - Lucas Llinás Múnera
+links:
+    - "[On the Bus - nightscribe](https://nightscribe.co/s/226/on-the-bus)"
 build:
     list: 
     publishResources: 

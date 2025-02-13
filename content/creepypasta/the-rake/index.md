@@ -1,12 +1,14 @@
 ---
 title: The Rake
 date: 2025-02-13T10:56:04-07:00
+lastmod: 2010-08-08T10:56:04-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
-    -
+    - Diaries and Journals
+    - Cryptids
 links:
     - "[Earliest instance of *The Rake*](https://web.archive.org/web/20121002062054/http://blog.panda6.net/2006/07/20/6/)"
 build:

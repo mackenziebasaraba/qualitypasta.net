@@ -1,12 +1,15 @@
 ---
 title: Snuff Film
 date: 2025-02-08T17:34:27-07:00
+lastmod: 2011-11-17T17:34:27-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
-    - 
+    - Television
+links:
+    - "[Snuff Film - Creepypasta Wiki](https://creepypasta.fandom.com/wiki/Snuff_Film)"
 build:
     list: 
     publishResources: 

@@ -1,9 +1,15 @@
 ---
 date: '2025-01-12T10:23:40-07:00'
+lastmod: '2010-08-08T10:23:40-07:00'
 draft: false
 title: 'Candle Cove'
+tags:
+    - Lost Media
+    - Television
 authors:
     - Kris Straub
+links:
+    - "[*Candle Cove* - Kris Straub's Website](https://ichorfalls.chainsawsuit.com/)"
 ---
 
 ### NetNostalgia Forums -- Television (Local)
@@ -81,13 +87,11 @@ I used to have this awful memory, a bad dream I had where the opening jingle end
 
 
 **kevin_hart**<br>
-**Subject: Re: Candle Cove local kid's show?**
-
+**Subject: Re: Candle Cove local kid's show?**<br>
 i don’t think that was a dream. i remember that. i remember that was an episode.
 
 **Skyshale033**<br>
-**Subject: Re: Candle Cove local kid's show?**
-
+**Subject: Re: Candle Cove local kid's show?**<br>
 No no no, not possible. There was no plot or anything, I mean literally just standing in place crying and screaming for the whole show.
 
 

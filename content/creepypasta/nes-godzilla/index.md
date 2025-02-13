@@ -1,9 +1,15 @@
 ---
 date: 2025-01-12T12:02:46-07:00
+lastmod: 2015-09-02T12:02:46-07:00
 draft: false
 title: NES Godzilla
+tags:
+    - Paranormal
+    - Video games
 authors:
     - Cosbydaf
+links:
+    - "[NES Godzilla CREEPYPASTA](https://allone-works.com/ngc/index.php/2015/06/09/chapter-1-earth-mars/)"
 ---
 
 {{< toc >}}

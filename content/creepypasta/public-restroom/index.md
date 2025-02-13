@@ -1,14 +1,18 @@
 ---
 title: Public Restroom
 date: 2025-02-13T00:50:04-07:00
+lastmod: 2015-06-30T00:50:04-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
-    - 
+    - Paranormal
+    - Washrooms
 authors:
-    - Darksparx 
+    - Darksparx
+links:
+    - "[Public Restrooms - nightscribe](https://nightscribe.co/s/4413/public-restrooms)"
 build:
     list: 
     publishResources: 

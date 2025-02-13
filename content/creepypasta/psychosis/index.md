@@ -1,10 +1,24 @@
 ---
 date: 2025-01-12T20:37:44-07:00
+lastmod: 2010-11-03T20:37:44-07:00
 draft: false
 title: Psychosis
+tags:
+    - Conspiracies
+    - Diaries and Journals
+    - Mental Illness
+    - Psychological Horror
 authors:
     - Matt Dymerski
+links:
+    - "[*Psychosis: Tales of Horror*](https://www.amazon.com/Psychosis-Tales-Horror-Matt-Dymerski-ebook/dp/B005DSU784/)"
 ---
+
+{{<disclaimer>}}
+Now apart of Matt Dymerski's collection *Psychosis: Tales of Horror*, [available on Amazon](https://www.amazon.com/Psychosis-Tales-Horror-Matt-Dymerski-ebook/dp/B005DSU784/).
+{{</disclaimer>}}
+
+[<figure><img src="psychosis-tales-of-horror.jpg"></figure>](https://www.amazon.com/Psychosis-Tales-Horror-Matt-Dymerski-ebook/dp/B005DSU784/)
 
 ### Sunday
 

@@ -1,12 +1,13 @@
 ---
 title: Annora Petrova
 date: 2025-02-13T00:31:31-07:00
+lastmod: 2014-07-05T00:31:31-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
-    -
+    - Computers and Internet
 authors:
     - OnePageWonder
 build:

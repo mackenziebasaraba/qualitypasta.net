@@ -1,12 +1,14 @@
 ---
-title: Who Was Phone?
+title: WHO WAS PHONE?
 date: 2025-02-08T17:42:31-07:00
+date: 2010-08-11T17:42:31-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
-    - 
+    - Comedic
+    - Shitpost
 build:
     list: 
     publishResources: 
@@ -19,3 +21,5 @@ oK so basicaly its like this. youare at a friends house for like the night or wa
 also:
 
 So ur with ur honey and yur making out wen the phone rigns. U anser it n the vioce is "wut r u doing wit my daughter?" U tell ur girl n she say "my dad is ded". THEN WHO WAS PHONE?
+
+![Original 4chan post](whowasphone.png)
