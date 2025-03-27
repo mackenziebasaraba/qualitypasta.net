@@ -1,0 +1,1 @@
+**qualitypasta.net**, is a minimalist Creepypasta archive I began working on after running into slow Javascript ridden messes while searching for a nostalgic read. As of now, this website isn't a main focus for me; I tend to only add stories prior to reading them myself.
