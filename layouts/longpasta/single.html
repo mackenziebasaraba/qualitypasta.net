@@ -1,0 +1,97 @@
+{{- define "main" -}}
+<main>
+    <div class="article-grid">
+        <header>
+            <h1 id="{{ .Parent.Title }}">{{ .Parent.Title }}</h1>
+            <h2 id="{{ .Title }}">{{ .Title | title }}</h1>
+        </header>
+        <div></div>
+        <article>
+            {{ .Content }}
+            <hr>
+            <div id="nextprev">
+                {{ if .NextInSection }}
+                <p id="prevart"><a href="{{ .NextInSection.Permalink }}">Previous: {{ .NextInSection.Title | title }}</a></p>
+                {{ else }}
+                {{ with .Parent }}
+                <p id="prevart"><a href="{{ .RelPermalink }}">Previous: {{ with .Params.partTitle }}{{ . }}{{ else }}Part One{{ end }}</a></p>
+                {{ end }}
+                {{ end }}
+                {{ if .PrevInSection }}
+                <p id="nextart"><a href="{{ .PrevInSection.Permalink }}">Next: {{ .PrevInSection.Title | title }}</a></p>
+                {{ end }}
+            </div>
+        </article>
+        <div class="information">
+            {{ with .Parent }}
+            <dt>Contents</dt>
+            <ol>
+                <li><a href="{{ .RelPermalink }}">{{ with .Params.partTitle }}{{ . }}{{ else }}Part One{{ end }}</a></li>
+                {{ range .Pages }}
+                <li><a href="{{ .RelPermalink }}">{{ .Title | title }}</a></li>
+                {{ end }}
+            </ol>
+            {{ end }}
+            <dl>
+                <dt>Author</dt>
+                <dd>
+                    {{ with .Parent }}
+                    {{ if .Params.authors }}
+                    {{ range $i, $e := .Params.authors -}}
+                    {{- if $i -}}, {{ end -}}
+                    <a href='{{ "/authors/" | relLangURL }}{{ . | urlize }}'>{{ $e }}</a>
+                    {{- end -}}
+                    {{ else }}
+                    unknown
+                    {{ end }}
+                    {{- end -}}
+                </dd>
+            </dl>
+            <dl>
+                <dt>Date</dt>
+                <dd><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006-01-06" }}</time></dd>
+            </dl>
+            {{ if .Params.categories }}
+            <dl>
+                <dt>Categories</dt>
+                <dd>
+                    {{ range $i, $e := .Params.categories -}}
+                    {{- if $i -}}, {{ end -}}
+                    <a href='{{ "/categories/" | relLangURL }}{{ . | urlize }}'>{{ $e | humanize }}</a>
+                    {{- end -}}
+                    .</dd>
+            </dl>
+            {{ end }}
+            {{ with .Parent }}
+            {{ if .Params.tags }}
+            <dl>
+                <dt>Tagged</dt>
+                <dd>
+                    {{ range $i, $e := .Params.tags -}}
+                    {{- if $i -}}, {{ end -}}
+                    <a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ $e | humanize }}</a>
+                    {{- end -}}
+                    .</dd>
+            </dl>
+            {{ end }}
+            {{- end -}}
+            {{ with .Parent }}
+            {{ with .Params.license }}
+            <dl>
+                <dt>License</dt>
+                <dd>{{ . | markdownify }}</dd>
+            </dl>
+            {{ end }}
+            {{- end -}}
+            {{ if .Params.links }}
+            <dl>
+                <dt>Sources</dt>
+                {{ range $i, $e := .Params.links -}}
+                <dd>{{ . | markdownify }}</dd>
+                {{- end -}}
+            </dl>
+            {{ end }}
+        </div>
+    </div>
+</main>
+{{- end -}}
