@@ -1,0 +1,10 @@
+{{- $caption := .Get "caption" -}}
+{{- $div := .Get "div" -}}
+{{- $class := .Get "class" -}}
+
+<figure{{ if $class }} class="{{ $class }}"{{ end }}>
+{{ if $div }}<div class="{{ $div }}">{{ end }}
+{{ .Inner | .Page.RenderString }}
+{{ if $div }}</div>{{ end }}
+<figcaption>{{ $caption | markdownify }}</figcaption>
+</figure>
