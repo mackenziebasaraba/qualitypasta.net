@@ -1,4 +1,4 @@
-baseURL: https://qualitypasta.net/
+baseURL: https://mackenziebasaraba.github.io/
 languageCode: en
 title: qualitypasta.net
 timeZone: America/Edmonton
@@ -17,14 +17,14 @@ params:
     description:
     frontmatter:
       lastmod:
-        - lastmod 
+        - lastmod
         - publishDate
 
 taxonomies:
   author: authors
   tag: tags
   category: categories
-    
+
 
 menus:
   main:
