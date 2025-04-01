@@ -1,0 +1,99 @@
+baseURL: https://qualitypasta.net/
+languageCode: en
+title: qualitypasta.net
+timeZone: America/Edmonton
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+metaDataformat: yaml
+uglyURLS: false
+timeout: 360s
+
+pagination:
+  paperSize: 4
+
+params:
+    description:
+    frontmatter:
+      lastmod:
+        - lastmod 
+        - publishDate
+
+taxonomies:
+  author: authors
+  tag: tags
+  category: categories
+    
+
+menus:
+  main:
+    - name: Creepypastas
+      pageRef: Creepypastas
+      url: /creepypasta/
+      weight: 10
+    - name: Found Media
+      pageRef: Found Media
+      url: /found-media/
+      weight: 20
+
+markup:
+  defaultMarkdownHandler: "goldmark"
+  goldmark:
+    extensions:
+      cjk:
+        eastAsianLineBreaks: false
+        eastAsianLineBreaksStyle: simple
+        enable: false
+        escapedSpace: false
+      definitionList: true
+      extras:
+        delete:
+          enable: true
+        insert:
+          enable: true
+        mark:
+          enable: true
+        subscript:
+          enable: true
+        superscript:
+          enable: true
+      footnote: true
+      linkify: true
+      linkifyprotocol: https
+      passthrough:
+        delimiters:
+          block: []
+          inline: []
+        enable: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer:
+        disable: false
+        apostrophe: '&rsquo;'
+        ellipsis: '&hellip;'
+        emDash: '&mdash;'
+        enDash: '&ndash;'
+        leftAngleQuote: '&laquo;'
+        leftDoubleQuote: '&ldquo;'
+        leftSingleQuote: '&lsquo;'
+        rightAngleQuote: '&raquo;'
+        rightDoubleQuote: '&rdquo;'
+        rightSingleQuote: '&rsquo;'
+    parser:
+      attribute:
+        block: true
+        title: true
+      autoHeadingID: true
+      autoHeaderIDType: github-ascii
+      wrapStandAloneImageWithinParagraph: false
+    renderHooks:
+      image:
+        enableDefault: false
+      link:
+        enableDefault: false
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
