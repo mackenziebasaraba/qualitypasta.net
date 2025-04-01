@@ -1,0 +1,53 @@
+<dl>
+    <dt>Author</dt>
+    <dd>
+        {{ if .Params.authors }}
+        {{ range $i, $e := .Params.authors -}}
+        {{- if $i -}}, {{ end -}}
+        <a href='{{ "/authors/" | relLangURL }}{{ . | urlize }}'>{{ $e }}</a>
+        {{- end -}}
+        {{ else }}
+        unknown
+        {{- end -}}
+    </dd>
+</dl>
+<dl>
+    <dt>Date</dt>
+    <dd><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006-01-06" }}</time></dd>
+</dl>
+{{ if .Params.categories }}
+<dl>
+    <dt>Categories</dt>
+    <dd>
+        {{ range $i, $e := .Params.categories -}}
+        {{- if $i -}}, {{ end -}}
+        <a href='{{ "/categories/" | relLangURL }}{{ . | urlize }}'>{{ $e | humanize }}</a>
+        {{- end -}}
+        .</dd>
+</dl>
+{{ end }}
+{{ if .Params.tags }}
+<dl>
+    <dt>Tagged</dt>
+    <dd>
+        {{ range $i, $e := .Params.tags -}}
+        {{- if $i -}}, {{ end -}}
+        <a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ $e | humanize }}</a>
+        {{- end -}}
+        .</dd>
+</dl>
+{{ end }}
+{{ with .Params.license }}
+<dl>
+    <dt>License</dt>
+    <dd>{{ . | markdownify }}</dd>
+</dl>
+{{ end }}
+{{ if .Params.links }}
+<dl>
+    <dt>Sources</dt>
+    {{ range $i, $e := .Params.links -}}
+    <dd>{{ . | markdownify }}</dd>
+    {{- end -}}
+</dl>
+{{ end }}
