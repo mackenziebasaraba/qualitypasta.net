@@ -1,0 +1,33 @@
+{{- define "main" -}}
+<main>
+    <h1 id="{{ .Title }}">{{ .Title }}</h1>
+    <article>
+        {{ .Content }}
+    </article>
+        {{- $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" -}}
+        {{- $pages := .Pages.ByTitle -}}
+        {{- $by_letter := dict -}}
+        {{- range $pages -}}
+            {{- $page := . -}}
+            {{- $first_letter := upper ( substr $page.Name 0 1 ) -}}
+            {{- if not (in $letters $first_letter) -}}
+                {{- $first_letter = "#" -}}
+            {{- end -}}
+            {{- $new_list := slice $page -}}
+            {{- with index $by_letter $first_letter -}}
+                {{- $new_list = . | append $page -}}
+            {{- end -}}
+            {{- $by_letter = merge $by_letter (dict $first_letter $new_list) -}}
+        {{- end -}}
+        {{ range $key, $items := $by_letter }}
+    <h3 id="{{ $key }}">{{ $key | upper }}</h3>
+    <div class="grid-list">
+        <ul>
+            {{ range $items }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>
+            {{ end }}
+        </ul>
+    </div>
+        {{- end -}}
+</main>
+{{- end -}}

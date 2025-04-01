@@ -1,0 +1,20 @@
+{{- define "main" -}}
+<main>
+    <div class="page-home">
+    <h2>Recent Stories:</h2>
+        {{ $paginator := .Paginate (site.GetPage "creepypasta").Pages.ByDate.Reverse  }}
+        {{- range $paginator.Pages  -}}
+            <h3>
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </h3>
+            <p class="subtitle"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 2, 2006" | humanize }}</time></p>
+            {{ .Summary }}
+            {{ if .Truncated }}
+            <p style="margin-top: 2rem;"><a href="{{ .RelPermalink }}">Continue reading ...</a></p>
+            {{ end }}
+            <hr>
+        {{- end -}}
+        {{ partial "pagination.html" . }}
+    </div>
+</main>
+{{- end -}}

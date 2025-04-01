@@ -1,0 +1,33 @@
+{{- define "main" -}}
+<main>
+    <div class="prose-page">
+        <header>
+          <h1 id="{{ .Title }}">{{ with .Params.titleStyled }}{{ . | markdownify }}{{ else }}{{ .Title | markdownify }}{{ end }}</h1>
+        </header>
+        <div></div>
+        <article>
+            {{ .Content }}
+            {{ $archive := .Site.GetPage "/creepypasta" }}
+            {{ if $.InSection $archive }}
+            {{ else }}
+            <hr>
+            <div id="nextprev">
+                {{ if .NextInSection }}
+                <p id="prevart"><a href="{{ .NextInSection.Permalink }}">Previous: {{ .NextInSection.Title | humanize }}</a></p>
+                {{ else }}
+                {{ with .Parent }}
+                <p id="prevart"><a href="{{ .RelPermalink }}">Previous: {{ with .Params.partTitle }}{{ . }}{{ else }}Part one{{ end }}</a></p>
+                {{ end }}
+                {{ end }}
+                {{ if .PrevInSection }}
+                <p id="nextart"><a href="{{ .PrevInSection.Permalink }}">Next: {{ .PrevInSection.Title | humanize }}</a></p>
+                {{ end }}
+            </div>
+            {{ end }}
+        </article>
+        <div class="information">
+            {{ partial "information.html" . }}
+        </div>
+    </div>
+</main>
+{{- end -}}
