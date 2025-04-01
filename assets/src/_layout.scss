@@ -1,0 +1,217 @@
+.prose-page {
+  width: 87.5%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 12.5%;
+  max-width: 1400px;
+  counter-reset: sidenote-counter;
+
+  article {
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+  }
+
+  section {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+
+  blockquote > p {
+    width: 55%;
+    margin-right: 40px;
+  }
+
+  h1 {
+    width: 75%;
+    padding-top: 5rem;
+  }
+
+  h2, h3 {
+    width: 55%;
+  }
+
+  section > p,
+  section > table {
+    width: 55%;
+  }
+
+  section > dl,
+  section > ol,
+  section > ul {
+    width: 50%;
+    -webkit-padding-start: 5%;
+    padding-inline-start: 5%;
+  }
+
+  dt:not(:first-child),
+  li:not(:first-child) {
+    margin-top: 0.25rem;
+  }
+
+  figure {
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    max-width: 55%;
+  }
+
+  figcaption {
+    text-align: center;
+    vertical-align: baseline;
+    position: relative;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  section > img {
+    width: 100%;
+  }
+
+  .sidenote,
+  .marginnote,
+  .table-of-contents {
+    float: right;
+    clear: right;
+    margin-right: -60%;
+    width: 50%;
+    margin-top: 0.3rem;
+    margin-bottom: 0;
+    vertical-align: baseline;
+    position: relative;
+  }
+
+  .sidenode-number {
+    counter-increment: sidenote-counter;
+  }
+
+  .sidenote-number:after,
+  .sidenote:before {
+    position: relative;
+    vertical-align: baseline;
+  }
+
+  .sidenote-number:after {
+    counter: counter(sidenote-counter);
+    top: -0.5rem;
+    left: 0.1rem;
+  }
+
+  .sidenote:before {
+    content: counter(sidenote-counter) " ";
+    top: -0.5rem;
+  }
+
+  blockquote .sidenote,
+  blockquote .marginnote {
+    margin-right: -82%;
+    min-width: 59%;
+    text-align: left;
+  }
+
+  div.full-width,
+  table.full-width,
+  code {
+    width: 100%;
+  }
+
+  div.table-wrapper {
+    ovetflow-x: autp;
+  }
+
+  code, pre > code {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  pre.full-width > code {
+    width: 90%;
+  }
+
+  .full-width {
+    max-width: 90%;
+    clear: both;
+  }
+}
+
+
+
+@media (max-width: 1300px) {
+  .prose-page {
+    width: 95%;
+    padding-left: 5%;
+
+    h1, h2, h3 {
+      width: 100%;
+    }
+  }
+}
+
+@media (max-width: 1000px) {
+  .prose-page {
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+    hr,
+    section > p,
+    section > footer,
+    section > table {
+      width: 100%;
+    }
+
+    pre > code {
+      width: 97%
+    }
+
+    section > dd,
+    section > ol,
+    section > ul {
+      width: 90%;
+    }
+
+    figure {
+      max-width: 100%;
+    }
+
+    figcaption,
+    figure.fullwidth figcaption {
+      margin-right: 0%;
+      max-width: none;
+    }
+
+    blockquote {
+      margin-left: 1.5em;
+      margin-right: 0em;
+    }
+
+    blockquote p,
+    blockquote footer {
+      width: 100%;
+    }
+
+    .sidenote,
+    .marginnote {
+      display: none;
+    }
+
+    img {
+      width: 100%;
+    }
+  }
+}
+
+@media (max-width: 900px) {
+  .prose-page {
+    width: 88%;
+    padding-left: 6%;
+    padding-right: 6%;
+  }
+}
+
+@media (max-width: 800px) {
+  .prose-page {
+    width: 90%;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+}

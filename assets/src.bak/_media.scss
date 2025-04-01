@@ -1,0 +1,50 @@
+@use "functions" as *;
+
+picture {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  max-height: 90vh;
+  width: 100%;
+}
+
+video {
+  max-height: 80vh;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Image filters
+.invert {
+  filter:
+    invert(1);
+}
+
+.threshhold {
+  filter:
+    brightness(calc(100% + 50%))
+    grayscale(100%)
+    contrast(1000%);
+}
+
+
+@media (prefers-color-scheme: light) {
+  .invert-light img {
+    filter: invert(100%);
+  }
+}
+
+@media only screen and (min-width: 720px) {
+  .float-right {
+    float: right;
+    max-width: 300px;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-top: #{fluid(14px, 19px)};
+  }
+}

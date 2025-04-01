@@ -1,0 +1,34 @@
+@use "../typography" as *;
+
+@media (min-width: 1130px) {
+  .article-grid {
+    display: grid;
+    grid-template-columns: 730px 300px;
+    grid-template-areas:
+      "header blank"
+      "main information";
+    column-gap: 100px;
+
+    article {
+      grid-area: main;
+    }
+
+  }
+  .information {
+    grid-area: information;
+    text-align: left;
+    dd {
+      @include small-text;
+    }
+    li {
+      @include small-text;
+    }
+    dd {
+      margin-bottom: 0.5rem;
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+}

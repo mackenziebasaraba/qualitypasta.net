@@ -1,0 +1,10 @@
+@use "../functions" as *;
+
+.page-home {
+
+  h2 {
+    border-bottom: 2px solid var(--body-text);
+    margin-bottom: #{fluid(14px, 19px)};
+  }
+
+}

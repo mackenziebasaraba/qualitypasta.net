@@ -1,0 +1,32 @@
+@use "functions" as *;
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, code, figure picture,
+del, dfn, em, img, q, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, figure, figcaption,
+table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline; max-width: 100%;
+}
+
+body {
+  line-height: 1.45;
+}
+
+h1, h2, h3, h4, h5, h6, p, ol, ul, dl, hr,
+figure, blockquote, footer, video, summary {
+  margin-bottom: #{fluid(16px, 18px)};
+}
+
+body {
+  background: var(--background);
+  color: var(--body-text);
+}
+
