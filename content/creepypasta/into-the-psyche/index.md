@@ -11,14 +11,15 @@ authors:
     - Michael A. Chabek
 links:
     - "[Into the Psyche](https://creepypasta.fandom.com/wiki/Into_the_Psyche)"
-license:
-    - "[CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0)"
+license: "[CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 "Dad, come on, you know me. I didn't do anything to Julie. This is all a misunderstanding. She's my wife; I'd never hurt her."
 
@@ -70,7 +71,7 @@ He rushed over and snatched it up. Norman had to squint to make out the very sma
 > Better than to live in Hell<br>
 > Into the psyche you must go<br>
 > Unless you break the serpent's spell
-  
+
 Norman recalled Julie looking up cheval mirrors on her laptop one night while he read next to her in bed. As often happens online, she was eventually drawn away from her intended subject. "Did you know our mirror is also called a psyche?" He later noticed her furrowed brow which he knew all too well meant she was struggling with some concept or idea she had never thought much about before. "Oh, I'm reading about the totality of the human mind now. Yeah, I think some people just think too much." That eventually led her to the tale of Eros and Psyche before she ended her night watching cute cat videos.
 
 The split second memory of his loving wife was eradicated by images of her battered face. Her broken nose and black eyes quickly melted into the bloody, pulped mask she wore in his dream right before she was flung into the mirror. He was rushing down the hall before he could fully collect his thoughts. He came to a halt in the kitchen, panting like he'd just sprinted a mile and stared at the door to the garage.
@@ -102,3 +103,5 @@ One by one they shot towards Norman like bullets and embedded themselves in his 
 Norman crawled out of bed the next morning, stretched, and let out a big yawn. He mused to himself that sleep was the best remedy after the long busy day he had yesterday. He grabbed his phone off his dresser and texted Julie, "Won't be home until tomorrow. Come get your stuff today."
 
 Then he stepped into the bedroom closet and slid the door shut.
+
+</section>

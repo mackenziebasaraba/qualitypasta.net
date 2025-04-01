@@ -1,7 +1,6 @@
 ---
 title: Room 308
-date: 2025-02-13T00:55:51-07:00
-lastmod: 2013-04-21T00:55:51-07:00
+date: 2013-04-21T00:55:51-07:00
 type:
 layout:
 description:
@@ -15,11 +14,13 @@ authors:
 links:
     - "[The Third Floor](https://www.reddit.com/r/creepypasta/comments/1csy45/the_third_floor/)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 My friend Mark and I love exploring abandonments. We've been doing it for years, and I'm telling you, it never gets old. The constant creepy feeling, finding new areas, guessing at the history - it's almost addicting.
 
@@ -150,3 +151,5 @@ I was thoroughly freaked, but he still had one last detail for me.
 He paused.
 
 "I didn't want to say anything then, but I could swear I could see people in the third floor windows..."
+
+</section>

@@ -14,15 +14,19 @@ authors:
 links:
     - "[The House That Death Forgot](https://creepypasta.fandom.com/wiki/The_House_That_Death_Forgot)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
+
 {{< figure
 div="float-right" >}}
 ![](250px-royce.jpg)
 {{</figure>}}
+
 Melinda hated driving at night. She did her best to avoid it. Short trips to the store if she just realized she ran out of tampons or had nothing for dinner after getting home — that sort of thing happened now and then. But she did her best not to go out after dark unless someone was coming to pick her up.
 
 So, naturally, she found herself on the longest drive of her life tonight, with no moon, few stars, swirling clouds above her, and acres of forest on either side.
@@ -60,8 +64,8 @@ But so far, all that she could see on either side was trees. Mile after mile of 
 There weren't even any road signs other than the mile markers. Had she really found the middle of nowhere? She was just in the middle of this thought when her headlights illuminated something just up the road; a square, wooden sign — obviously made by someone other than the government. This wasn't a gas/food/lodging sign, or a mile marker, or a distance-to sign. This looked like the kind of signs advertising a private business was nearby. She slowed down to read it.
 
 > **Granny Royce's Road House**<br>
-> Come stay the night at Granny's!<br> 
-> She'll take good care of you!<br> 
+> Come stay the night at Granny's!<br>
+> She'll take good care of you!<br>
 > Room! Board! Low Prices!<br>
 > Next Exit!
 
@@ -334,3 +338,5 @@ Sobbing, she asked the question she'd been afraid to ask since coming here.
 Melinda had had enough of this. She pushed Calvin away and threw open the door. *He* was standing on the porch. The knife was held out in front of him, just at face-level. Melinda ran into him at a rush, the knife puncturing her right eye and its tip sliding on through, out the other side. She just managed to see the grinning, pure-white face of her killer, before everything went black.
 
 A few hours later, the house erupted with screams from upstairs as Melinda awoke to a world of pain, the like of which she'd never known.
+
+</section>

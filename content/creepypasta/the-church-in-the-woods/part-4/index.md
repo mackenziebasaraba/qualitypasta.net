@@ -15,6 +15,8 @@ build:
 draft: false
 ---
 
+<section>
+
 ![Ritual](Ritual.jpg)
 
 “Who the hell are you?” I asked, backing up from the woman.
@@ -400,3 +402,5 @@ I couldn’t stand the sight of it and looked away as I passed it. Behind it, I 
 Every so often, a wail would echo from its depths sending my heart into its own depths with it. This was crazy. How could all of this be in here? It was clear that this, that all of it, was *way* over my head. I wanted to turn around, God knows I wanted to, but with each wail I thought of Victoria. I couldn’t leave her to suffer.
 
 I glanced down at my hands to discover that I was still holding the cloak and the mask. It was a long shot, but I thought if I wore it, it would help me blend in. Even if it bought me only a few minutes, I could use whatever edge I could get. I threw on the cloak and placed the mask over my face. I took one last breath and began making my descent.
+
+</section>

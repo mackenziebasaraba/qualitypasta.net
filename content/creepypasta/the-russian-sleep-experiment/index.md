@@ -13,11 +13,14 @@ tags:
 links:
     - "[Russian Sleep Experiment: the best short story I've read.](https://rip747.wordpress.com/2009/08/08/russian-sleep-experiment-the-best-short-story-ive-read/)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
+
 Russian researchers in the late 1940s kept five people awake for fifteen days using an experimental gas-based stimulant. They were kept in a sealed environment to carefully monitor their oxygen intake so the gas didn't kill them, since it was toxic in high concentrations. This was before closed circuit cameras, so they had only microphones and five-inch-thick glass porthole-sized windows into the chamber to monitor them. The chamber was stocked with books and cots to sleep on (but no bedding), as well as running water, a toilet, and enough dried food to last all five for over a month.
 
 The test subjects were political prisoners deemed enemies of the state during World War II.
@@ -81,3 +84,5 @@ The subject smiled.
 The researcher paused, then aimed at the subject's heart and fired. The EEG flatlined as the subject weakly choked out, "So... nearly... free..."
 
 ![Spazm](spazm.png)
+
+</section>

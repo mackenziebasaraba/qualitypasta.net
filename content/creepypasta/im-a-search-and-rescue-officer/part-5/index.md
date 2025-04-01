@@ -8,6 +8,8 @@ links:
 weight: 05
 ---
 
+<section>
+
 I apologize for the short update, guys. Things have gotten a little crazy around here, and I'm not sure how often I'll be able to update going forward. I really appreciate all the support you guys have given me, and while I only have a couple of stories to share with you, I'll be interested to see what you all think!
 
 A firefighter who was helping us at the training op told me about a call he'd gone on, supposedly to help rescue a kid from an absolutely massive tree. He said they didn't give him details, just that they needed him to come out and help because they lacked the proper equipment. He'd been called out specifically because this thing was so huge that the SARs didn't feel safe trying to climb it. He'd been a tree-trimmer before joining the VFD, so it was easy enough for him to grab his old equipment and come help out. He was led out about two miles, and the team stopped at one of the biggest trees in the area and pointed up. He laughed and asked the op captain how the kid had gotten up there, made some joke about the old 'cat in a tree' thing, but the captain just shook his head and told him to get up there and get the kid down. He said he knew something was up, but he didn't push it.
@@ -59,3 +61,5 @@ She said it was never really talked about, but they always knew not to go more t
 "She asked me over and over what had happened and who that was, but I didn’t say anything. When we got home, I told her I didn't want to play in the woods with her anymore. We're still friends, but we don't talk about that guy. Not ever."
 
 I'll update as soon as I'm able, guys. I appreciate the continued support!
+
+</section>

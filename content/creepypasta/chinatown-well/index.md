@@ -10,11 +10,13 @@ tags:
 type:
 layout:
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 ![Well](Well.jpg)
 
@@ -29,3 +31,5 @@ You must respond with:
 > "She has long since gone from earth, but look to the sky, and see her there!"
 
 This spirit is not that of a little girl, but of a bog-hag, cursed to obey this one command regardless of who says it. At this moment, you must attempt to strike the girl with your newly acquired Jiujiebian. She will then snarl and attempt to fight back. Should you win, all the money ever thrown into the fountain will await you. If you fail, all that the folks in Chinatown know is that a bloody Jiujiebian lies at the door of the import store with a notch in its handle. To date, there are forty-nine notches in the handle.
+
+</section>

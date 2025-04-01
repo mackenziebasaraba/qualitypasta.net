@@ -19,6 +19,8 @@ build:
 draft: false
 ---
 
+<section>
+
 The girl stood up and brushed her hair out of her face. For some reason, even taking into consideration how terrifying she should have been to David, there was something oddly... normal about the girl. She had shoulder length brown hair, and was skinny as a rail with a few specs of freckles across her nose and cheeks. Even her clothes could have been found in any store: black tank top and jeans tucked into black-red boots. She was older than he first thought, as well. Closer to sixteen - if she even had an age. A hum from behind them startled them both, and dragged David back into his current situation.
 
 “We have to go,” she said. “Now.” And the girl grabbed his hand and took off. Surprised, David followed and nearly dropped his phone. He tried to hold it up as far as he could to light the way.
@@ -64,3 +66,5 @@ David took a look at his surroundings. His heart jumped slightly as he glanced a
 Line after line followed, and David watched in awe as the girl stood back and admired her work. David had never seen anything like it outside of fantasy movies. It was like a yin yang mixed with a pentagram mixed with a child's doodle. Natalie placed the charcoal back into her pocket and ran her fingers through her hair. After a moment of silence, she raised her hand and placed her right palm against the symbol, resting two fingers against her temple with the other. At first David thought she was speaking to him, but then realized that she was chanting her weird language again. Soon the symbol seemed to be vibrating, and David watched on as it began to steadily glow a deep purple. Natalie smiled to herself as she felt the wall shake before it split in two.
 
 "I've always loved doing that."
+
+</section>

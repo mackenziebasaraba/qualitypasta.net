@@ -1,7 +1,6 @@
 ---
 title: Anansi's Goatman Story
 date: 2012-09-28T16:01:31-07:00
-lastmod: 2012-09-28T16:01:31-07:00
 type:
 layout:
 description:
@@ -12,11 +11,13 @@ tags:
 links:
     - "[Archive of the /x/ thread](https://web.archive.org/web/20171009182212/http://archive.is/nNBoQ)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 {{<greentext>}}
 - be 16
@@ -34,7 +35,7 @@ draft: false
 - tell him about my uncle, who he knows, and say we're camping out
 - he tells us we need to be real careful out here and stick together because there was a big animal in the woods
 - his son, who is my age, asks if he can stay and hang out with us
-- he says OK 
+- he says OK
 {{</greentext>}}
 
 I'm going to stop greentexting because the story is fairly long and the format is harder to write in.
@@ -172,3 +173,5 @@ We got a little bit up the path, and when he came running up, we just jogged bac
 There was a window in the bathroom. Tan had gone back to lock up and looked in there. We were too stupid to lock a screenless window, and it was fucking up when he went in there. I'm guessing it had been doing that all along, waiting for us to fall asleep or slip up and then getting in among us.
 
 It walked with us all the goddamn way back to his house, and then he said it lagged to the back of the group and looked him dead in the eyes before walking into the woods.
+
+</section>

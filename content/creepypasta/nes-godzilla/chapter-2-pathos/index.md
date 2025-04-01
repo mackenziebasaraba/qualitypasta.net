@@ -15,6 +15,8 @@ build:
 draft: false
 ---
 
+<section>
+
 Pathos was the same as Jupiter in layout, except the board was dark blue rather
 than green. The first thing I noticed was that all the usual level icons had been
 replaced by a blue rock and some kind of orange honeycomb shape.
@@ -194,3 +196,5 @@ the level. I was quite relieved. I tried to prepare myself for the next world:
 "Trance".
 
 !["Trance"](trance.png)
+
+</section>

@@ -1,7 +1,6 @@
 ---
 title: The Rake
-date: 2025-02-13T10:56:04-07:00
-lastmod: 2010-08-08T10:56:04-07:00
+date: 2010-08-08T10:56:04-07:00
 type:
 layout:
 description:
@@ -12,13 +11,13 @@ tags:
 links:
     - "[Earliest instance of *The Rake*](https://web.archive.org/web/20121002062054/http://blog.panda6.net/2006/07/20/6/)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
 
-![the-rake.jpg](the-rake.jpg)
+<section>
 
 During the summer of 2003, events in the northeastern United States involving a strange, human-like creature sparked brief local media interest before an apparent blackout was enacted. Little or no information was left intact, as most online and written accounts of the creature were mysteriously destroyed.
 
@@ -75,3 +74,7 @@ On the first day of the third week, I thought I heard something different. What 
 The thoughts that must have gone through my daughter's head make me very upset.
 
 I have not seen the Rake since he ruined my life, but I know that he has been in my room while I slept. I know and fear that one night I'll wake up to see him staring at me."
+
+![the-rake.jpg](the-rake.jpg)
+
+</section>

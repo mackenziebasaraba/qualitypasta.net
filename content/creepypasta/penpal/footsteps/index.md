@@ -15,6 +15,8 @@ draft: true
 weight: 01
 ---
 
+<section>
+
 This is long, so I apologize for that. I've never had to tell this story with enough detail to actually explain it all the way, but it is true and it happened when I was about six years old.
 
 In a quiet room, if you press your ear against a pillow, you can hear your heartbeat. As a kid, the muffled, rhythmic beats sounded like soft footsteps on a carpeted floor, so as a kid, almost every night---just as I was about to drift off to sleep---I would hear these footsteps and I would be ripped back to consciousness, terrified.
@@ -68,3 +70,5 @@ I was confused. "What do you mean?"
 I picked up the note and read it. It was a "running away" letter. It said that I was unhappy and never wanted to see her or any of my friends again. The police officer exchanged a few words with my mom on the porch while I stared at the letter. I didn't remember writing a letter. I didn't remember anything about any of this. But even if I sometimes went to the bathroom at night and didn't remember, or even if I could have gone into the woods on my own, even if all that could have been true, the only thing I knew at that point was,
 
 "This isn't how you spell my name... I didn't write this letter."
+
+</section>

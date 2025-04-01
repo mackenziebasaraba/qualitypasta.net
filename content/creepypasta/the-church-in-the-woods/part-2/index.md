@@ -15,6 +15,8 @@ build:
 draft: false
 ---
 
+<section>
+
 ![Congregation room](Congregation.jpg)
 
 I was particularly excited about this onsite job. Later on that evening, my boss called again, and filled me in on more details about the request. He told me that traveling to the church would be quite a drive and that its location was in the countryside secluded from most towns.
@@ -302,3 +304,5 @@ The eyes were small and beady staring firmly off into the distance. It held a th
 “Victoria…?” I felt my voice squeak. I could fell an eerie chill fall down my spine, unable tear my eyes from the horrid view. “W-what the hell is that?” I stammered.
 
 Walking to me, her eyes carried over to the figure. She seemed unfazed and calmly stated, “*That* is our god, Lanius, the White Eye of Time.”
+
+</section>

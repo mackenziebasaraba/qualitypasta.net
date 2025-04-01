@@ -18,13 +18,15 @@ license:
 type:
 layout:
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
 
-#### August 16th, 2014
+<section>
+
+## August 16th, 2014
 
 Before I get into this, I need to make something clear.
 
@@ -53,6 +55,7 @@ After it opened, I was bombarded with sentences so thick with scientific lingo t
 It looked like the picture below.
 
 ![Ebola](DLcrT80.jpg)
+{ class="full-width" }
 
 For those of you who don't know, that's Ebola.
 
@@ -98,7 +101,11 @@ I drove to work, and tried to forget about it. I worked on getting my office sit
 
 OK, I'm gonna have to cut it off here. The family whose WiFi I'm ripping off have looked out the window four times at my car, and now someone has a phone in their hand. I'll have to be more careful next time. I'll be back as soon as I can. Stay safe.
 
-#### August 16th, 2014
+</section>
+
+<section>
+
+## August 16th, 2014
 
 OK, back everybody. I'm being a bit more careful this time; I'm still hijacking this family's WiFi to post this and browse reddit a little, but I'm here in the middle of the day now. The only one home (from what I can see) is the wife/mom, and she hasn't noticed me yet.
 
@@ -200,7 +207,11 @@ The only option I had left that would keep me alive and keep my wife and family 
 
 I was so fucked.
 
-#### August 16th, 2014
+</section>
+
+<section>
+
+## August 16th, 2014
 
 Back again---I'm not sure if it's just because I miss everything that made life familiar, but this family has really made me smile. Just knowing normal life continues, you know?
 
@@ -231,8 +242,8 @@ To make sure I didn't lose the information I had saved on the USB drive from the
 Again, this isn't a how-to, but this is an easy way to break it down:
 
 - BOX A (fake everything) -- town I never planned on visiting.
-- BOX B (fake everything) -- town I never planned on visiting.  
-- BOX C (real, sent one copy here) -- town adjacent to a place I was familiar with.  
+- BOX B (fake everything) -- town I never planned on visiting.
+- BOX C (real, sent one copy here) -- town adjacent to a place I was familiar with.
 - BOX D (real, sent one copy here) -- town where I planned on disappearing to, to start with.
 
 The whole time, I had to keep Fay in the dark. It killed me to see her smiling, or playing with the dog, or to hear her murmur "I love you” as she fell asleep next to me. If I had been able, I would have rewound until just before I had opened that damn email and continued to sit with her for as long as I was able. I managed to keep my misinformation-building efforts away from her, but the "accidents” kept happening. Our oven broke, and the heating element didn't stop getting hotter. I had to shut the power off for the whole house in order to avert a fire.
@@ -289,7 +300,11 @@ Fay, if you are, please know I love you. I've never stopped loving you. I never 
 
 I love you.
 
-#### August 22nd, 2014
+</section>
+
+<section>
+
+## August 22nd, 2014
 
 OK, I can't stay here long. I wanted to address a few things in a longer post, but events have happened that make that no longer an option. This will be my last update in a very, very long time.
 
@@ -322,3 +337,5 @@ I don't think they would chase any of you, but watch your back for a few days ju
 Goodbye, reddit. Thanks for listening, and for giving me some solid human contact.
 
 Goodbye, Fay. Forgive me.
+
+</section>

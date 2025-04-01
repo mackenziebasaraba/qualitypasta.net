@@ -8,12 +8,14 @@ links:
 type: longpasta
 layout:
 build:
-    list: 
-    publishResources: 
+    list:
+    publishResources:
     render:
 weight: 07
 draft: false
 ---
+
+<section>
 
 The next few months were uneventful. Once again I felt like I had hit a dead end. I took a break from the mission and focused on life obligations. I had just managed to comfortably put the Lost Episode search on the backburner and feel contented when I received an email with the subject "What You've Been Looking For."
 
@@ -99,3 +101,5 @@ Before I got out, she spoke to me one last time. "Now listen to me, you've found
 We exchanged goodbyes, and she drove off. For years I kept my end of the agreement to never speak a word about our encounter to anyone. However, recently I have been reconsidering the bargain. A few days ago, someone reached out to me on the Web asking me for information on Lost Episodes. They claim to have seen one as a child and are hoping to find closure for their experience.
 
 I'm debating with myself whether it's worth letting them in on the secret, or if it would be better for their own sake if I convinced them they imagined the whole thing.
+
+</section>

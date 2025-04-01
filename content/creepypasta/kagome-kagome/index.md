@@ -23,6 +23,8 @@ build:
 draft: false
 ---
 
+<section>
+
 ![](Extreme_Kagome-Kagome_Special.jpg)
 
 ### War Experiments
@@ -204,3 +206,5 @@ If you turn around, the story varies. Supposedly, your worst fear will be waitin
 If you respond, "I don't understand" (and you must be genuine), the head caretaker will say, "Go to your school, and watch your children play. You should understand then." Nothing will have changed.
 
 Close the door on your way out. It's common courtesy.
+
+</section>

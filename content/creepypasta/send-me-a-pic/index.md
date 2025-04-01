@@ -14,11 +14,13 @@ links:
     - "[Send Me a Pic](https://creepypasta.fandom.com/wiki/Send_Me_a_Pic)"
 license: "[CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 What is it with guys and dick pics?  They just can't resist sending them.  You don't even have to ask most of the time.  It's as if the human male has always had this innate urge to share images of his own cock with unwitting females, and was just waiting for technology to catch up.
 
@@ -45,3 +47,5 @@ In the locker room at the work, I love to hear people talk.  "Another one!" the
 We share a laugh.  Some weird self-pleasure trend gone horribly wrong, they assume. All in a day's work at a busy urban hospital.  But it never becomes routine to me.  It never loses its thrill.
 
 My phone beeps before I head out of the locker room.  It's a message from my latest right swipe.  He's sent me the pic I asked for.  How delightful....
+
+</section>

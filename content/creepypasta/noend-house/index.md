@@ -1,7 +1,6 @@
 ---
 title: NoEnd House
-date: 2025-02-13T00:36:11-07:00
-lastmod: 2011-06-30T00:36:11-07:00
+date: 2011-06-30T00:36:11-07:00
 type:
 layout:
 description:
@@ -14,11 +13,13 @@ authors:
 links:
     - "[From Brian's Desk](https://frombriansdesk.blogspot.com/)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 Let me start by saying that Peter Terry was addicted to heroin.
 
@@ -179,12 +180,20 @@ I had lost all senses. I couldn't feel myself. I couldn't hear anything. Sight w
 As I approached the light, it took form. It was a vertical slit down the side of an unmarked door. I slowly walked through the door and found myself back where I started: the lobby of NoEnd House. It was exactly how I left it: still empty, still decorated with childish Halloween decorations. After everything that had happened that night, I was still wary of where I was. After a few moments of normalcy, I looked around the place, trying to find anything different. On the desk was a plain white envelope with my name handwritten on it. Immensely curious, yet still cautious, I mustered up the courage to open the envelope. Inside was a letter, again handwritten.
 
 > *David Williams,*
- 
+
 > *Congratulations! You have made it to the end of NoEnd House! Please accept this prize as a token of great achievement.*
- 
-> *Yours forever,  
+
+> *Yours forever,
 > Management.*
 
 With the letter were five $100 bills.
 
 I couldn't stop laughing. I laughed for what seemed like hours. I laughed as I walked out to my car and laughed as I drove home. I laughed as I pulled into my driveway. I laughed as I opened my front door to my house and as I saw the small ten etched into the wood.
+
+<div style="float: right">
+
+[Next: NoEnd House II -- Maggie](/creepypasta/noend-house-2)
+
+</div>
+
+</section>

@@ -11,16 +11,15 @@ authors:
     - Raidenist
 links:
     - "[Teddy | Creepypasta Wiki | Fandom](https://creepypasta.fandom.com/wiki/Teddy)"
-license:
-    - "[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode)"
+license: "[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
 
-![Teddy](teddy.jpg)
+<section>
 
 My sister had a teddy bear, a scary teddy bear. I do not know why, but it creeped me out. It was just so disturbing to me. The thing had eyes that looked so real. It was as if it was made from a real bear, and its face was just blank and unsettling.
 
@@ -43,3 +42,7 @@ I have lived my teenage life through adolescence; the only thing I could remembe
 When I turned nineteen, I was about to move into my new home. I had been given the keys to the house and was ready to set up my furniture. After hours of carrying, I carried the final box from the removal truck into the front door and shut the door behind me. I turned to go into the kitchen and put it on the table. I opened it to see a cabinet. I took it out, walked into my new living room and placed it in the corner, stared at it and thought to myself, *'I don't remember packing this cabinet.'* I didn't really care that much, as I had just moved into my new home.
 
 I walked back into the kitchen to grab my television and brought it into the living room when I saw it. The teddy... it just sat there, staring at me.
+
+![Teddy](teddy.jpg)
+
+</section>

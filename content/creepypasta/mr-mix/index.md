@@ -11,14 +11,15 @@ authors:
     - Ingx24
 links:
     - "[Mr. Mix | Creepypasta Wiki | Fandom](https://creepypasta.fandom.com/wiki/Mr._Mix)"
-license:
-    - "[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode)"
+license: "[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 {{< figure
 div="float-right" >}}
@@ -62,3 +63,5 @@ Two years after this incident, a man was arrested for trying to kidnap an eight-
 He was wearing a white chef's hat and had a look of unspeakable malice and insanity on his face. When interrogated, the man would only say one thing.
 
 "I'm Mr. Mix. Shhh."
+
+</section>

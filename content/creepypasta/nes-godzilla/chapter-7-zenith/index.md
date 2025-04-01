@@ -15,6 +15,8 @@ build:
 draft: false
 ---
 
+<section>
+
 And here we are, at the final world. I don't like to discuss this part, and it
 still bothers me very much, but it's something I have to do, so that I can put
 this behind me. People deserve to know.
@@ -660,3 +662,4 @@ beat.
 
 ...
 
+</section>

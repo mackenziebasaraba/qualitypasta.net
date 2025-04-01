@@ -13,11 +13,14 @@ links:
     - "[Room Zero - slimebeast](http://slimebeast.wikidot.com/room-zero)"
 license: "[CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
+
 {{<figure
 div="float-right" >}}
 ![Disney gas mask](Mickey-mouse-gas-mask2.jpg)
@@ -148,7 +151,7 @@ All that trash, that profane shit, went into a furnace and mingled with the smok
 
 If you've been to Disney World, you've breathed ultra-condensed sin.
 
-Backing up this information was "Hammer". Hammer mailed me the old-fashioned way, though I don't know how he got my home address. He sent me photocopies of work papers proving his employment, with the instruction to burn them when I was convinced.  
+Backing up this information was "Hammer". Hammer mailed me the old-fashioned way, though I don't know how he got my home address. He sent me photocopies of work papers proving his employment, with the instruction to burn them when I was convinced.
 Which I did gladly.
 
 Hammer worked around the Disney World park, doing demolition and construction. At one point, he approached a superior regarding some strange construction plans.
@@ -250,3 +253,5 @@ You might notice I've used Ida's name.
 Unfortunately, she passed away soon after telling her story. Accidental fall, supposedly, after getting out of bed to turn on a light.
 
 "Such a company devotee," the paper reported, "that her entire bedroom was covered with Mickey silhouettes."
+
+</section>

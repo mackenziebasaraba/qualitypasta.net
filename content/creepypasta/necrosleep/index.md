@@ -1,7 +1,6 @@
 ---
 title: Necrosleep
-date: 2025-02-08T17:47:06-07:00
-lastmod: 2014-11-25T17:47:06-07:00
+date: 2014-11-25T17:47:06-07:00
 type:
 layout:
 description:
@@ -16,15 +15,17 @@ authors:
 links:
     - "[Necrosleep - Creepypasta Wiki](https://creepypasta.fandom.com/wiki/Necrosleep)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
 
+<section>
+
 ![Necrosleep homepage](necosleep-homepage.png)
 
-## My Disconnected Life
+### My Disconnected Life
 Blog author: **Reed Murdock**
 
 ### October 16th, 2014
@@ -189,7 +190,7 @@ You just said you were Asian last week, make up your mind.
 I leave this thread for 5 minutes and chaos ensues. Everybody calm the [expletive] down. Of course I'm not going to mess with it, these supposed miracle pills are $130 each anyways. Who do you think I am, Johnny Cash?
 
 **Thuglyfe4lyfe:**<br>
-Just because his name was Johnny Cash doesn't mean he was rich or had lots of cash or whatever. 
+Just because his name was Johnny Cash doesn't mean he was rich or had lots of cash or whatever.
 
 **B3457w4rf4r3:**<br>
 Of course he was rich, you dumb [expletive], he's Johnny [expletive] Cash.
@@ -319,7 +320,7 @@ Well, we pretty much ruled out the possibility that it's a prank by the admins. 
 
 ### October 30th, 2014
 
-Last night, I had a buddy of mine deliver the mail to my doorstep in exchange for some coding work on his Flash site. I'll do just about anything to avoid leaving the building. But that's not the point; the point is that I received an envelope with no return address. Yet I immediately knew who it was from. 
+Last night, I had a buddy of mine deliver the mail to my doorstep in exchange for some coding work on his Flash site. I'll do just about anything to avoid leaving the building. But that's not the point; the point is that I received an envelope with no return address. Yet I immediately knew who it was from.
 
 It was old. Very old, like it'd been sitting in a dusty attic for decades. I opened the stained envelope only to find a smaller manila envelope inside, also rather old-looking. Inscribed on the small envelope was the word "Necrosleep" and a word of advice on storing the packet in a cool, dark place for maximum potency. The words appeared to have been stamped onto the envelope rather than printed.
 
@@ -339,13 +340,13 @@ The article states that Dr. Stan was a Ukrainian scientist and physician. He cla
 
 > The motion picture "Experiments in the Revival of Organisms" depicts various disturbing medical experiments conducted on canines, one of which involves keeping a dog's decapitated head alive with a primitive autojector machine that supplied it with oxygenated blood.
 
-> The operations in the film were credited to Dr. Sergei Brukhonenko. However, Dr. Hail A. Stan incessantly claimed to be the one who really conducted the experiments and invented the autojector, and that they only credited Brukhonenko because Stan was sentenced to life in prison for illegally conducting gruesome experiments on humans. He believed that because he had consent from his test subjects (albeit through bribery) he had not committed an immoral crime. 
+> The operations in the film were credited to Dr. Sergei Brukhonenko. However, Dr. Hail A. Stan incessantly claimed to be the one who really conducted the experiments and invented the autojector, and that they only credited Brukhonenko because Stan was sentenced to life in prison for illegally conducting gruesome experiments on humans. He believed that because he had consent from his test subjects (albeit through bribery) he had not committed an immoral crime.
 
 > The Lenin Prize was awarded to Brukhonenko for the autojector, while Stan remained in permanent imprisonment. It wasn't until they discovered the lost footage of his morbid human experiments that they had him executed by lethal injection. His last words, spoken in an unidentified language, died with him.
 
-> Dr. Hail A. Stan was rumored to have pioneered a variety of cures for major conditions such as narcolepsy and epilepsy. However, the results were not published in a scientific manner, and therefore the majority of his alleged accomplishments were unverifiable, as well as seemingly occult in nature. The number of people he apparently cured of various incurable afflictions between 1930 and 1940 was in the thousands. Attempts to replicate his documented remedies ultimately failed, leading most to believe he was practicing pseudoscience. 
+> Dr. Hail A. Stan was rumored to have pioneered a variety of cures for major conditions such as narcolepsy and epilepsy. However, the results were not published in a scientific manner, and therefore the majority of his alleged accomplishments were unverifiable, as well as seemingly occult in nature. The number of people he apparently cured of various incurable afflictions between 1930 and 1940 was in the thousands. Attempts to replicate his documented remedies ultimately failed, leading most to believe he was practicing pseudoscience.
 
-> It is believed by some that Dr. Hail A. Stan has a following to this day, and that his miracle cures are still being practiced and peddled from Russia and Ukraine. Some claim to have received mysterious emails and offers pertaining to Dr. Hail A. Stan's work; all investigations revealed no evidence to support these claims. 
+> It is believed by some that Dr. Hail A. Stan has a following to this day, and that his miracle cures are still being practiced and peddled from Russia and Ukraine. Some claim to have received mysterious emails and offers pertaining to Dr. Hail A. Stan's work; all investigations revealed no evidence to support these claims.
 
 I'll admit, some of this stuff unnerves me. Morbid human experiments aren't exactly pleasant things to think about. But it seems to me this guy was just doing what was necessary to advance his research. Maybe he really was on to something? Maybe his cures couldn't be replicated because they were so advanced? I don't really know. All I know is that I received one of these mysterious offers that supposedly don't exist beyond hearsay.
 
@@ -519,9 +520,13 @@ Twig is in heaven now. I had to do it. I had to know what it tasted like. It was
 
 MAKE IT STOP.
 
+</section>
+
 ***
 
-## Police Report Pt. 1 – Thanksgiving – 11/27/2014
+<section>
+
+### Police Report Pt. 1 – Thanksgiving – 11/27/2014
 
 Victim: **Paul Murdock**
 
@@ -533,7 +538,7 @@ Reed was shot dead after refusing to stop eating his own father, whose skull was
 
 ***
 
-## Police Report Pt. 2 – 11/29/2014
+### Police Report Pt. 2 – 11/29/2014
 
 Reed Murdock's residence was inspected thoroughly by investigators. A hairless, headless, and disemboweled cat carcass was found on the kitchen counter. The cat's blood and bodily fluids were spilled throughout the house, while the head was found crushed, the brain having been completely removed and nowhere to be found.
 
@@ -543,7 +548,7 @@ A suspicious packet of unidentified pills was recovered. The resident's computer
 
 ***
 
-## Autopsy Report – 12/4/2014
+### Autopsy Report – 12/4/2014
 
 Subject: **Reed Murdock**
 
@@ -557,8 +562,10 @@ The unknown pills recovered from Murdock's apartment have been tested and confir
 
 ***
 
-## Police Report Pt. 3 – 12/6/2014
+### Police Report Pt. 3 – 12/6/2014
 
 Two friends of Reed Murdock---Jake Fairfax and Douglas Lopez---were questioned at the police station. Immediately, they referred to his online blog, where he allegedly recorded his path to eventual insanity. It was found that the blog had mysteriously disappeared off the face of the internet for reasons unknown.
 
 They were aware of the unknown pills Reed was taking, claiming they originated from the website Necrosleep.net. Investigators later confirmed the website does not exist.
+
+</section>

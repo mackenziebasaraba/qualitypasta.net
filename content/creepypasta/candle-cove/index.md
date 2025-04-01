@@ -1,6 +1,5 @@
 ---
-date: '2025-01-12T10:23:40-07:00'
-lastmod: '2010-08-08T10:23:40-07:00'
+date: '2010-08-08T10:23:40-07:00'
 draft: false
 title: 'Candle Cove'
 tags:
@@ -11,6 +10,8 @@ authors:
 links:
     - "[*Candle Cove* - Kris Straub's Website](https://ichorfalls.chainsawsuit.com/)"
 ---
+
+<section>
 
 ### NetNostalgia Forums -- Television (Local)
 
@@ -108,3 +109,5 @@ Oh God. Yes. The little girl, Janice, I remember seeing her shake. And the Skin-
 **mike_painter65**<br>
 **Subject: Re: Candle Cove local kid's show?**<br>
 i visited my mom today at the nursing home. i asked her about when i was littel in the early 70s, when i was 8 or 9 and if she remebered a kid's show, candle cove. she said she was suprised i could remember that and i asked why, and she said "because i used to think it was so strange that you said 'i'm gona go watch candle cove now mom' and then you would tune the tv to static and juts watch dead air for 30 minutes. you had a big imagination with your little pirate show."
+
+</section>

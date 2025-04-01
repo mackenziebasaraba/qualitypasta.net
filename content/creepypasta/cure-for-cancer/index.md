@@ -11,11 +11,13 @@ tags:
 authors:
     - Robert Boyczuk
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 When Marissa said, "Maybe we should see other people," Nicholas decided to give her cancer.
 
@@ -220,3 +222,5 @@ She called out his name again.
 Climbing onto the gurney, Nicholas straddled Marissa. Her head rose to meet his, her lipless mouth fitting precisely over his---
 
 ---and something pointed and greasy tore across his tongue like a rasp. He jerked his head back, tasting his own welling blood, and something else too: the pang of loneliness, abandonment and dark, brackish coffee. The taste of cancer. He leaned forward and kissed her harder this time, pressing his face against hers, his weight fully on her chest, her blistering breath forced down his throat, scalding his esophagus like bad scotch, unfurling in his lungs, settling contentedly there. He kept his lips on her, one minute, two minutes, almost three. Then pulled back, gasping for air. His heart hammered desperately; his vision blurred. Losing his balance, he toppled backwards off the gurney, felt ribs crack when he hit something that jutted from the cold floor, though he couldn't quite think what it might be, and it didn't really bother him all that much. Nicholas' limbs twitched uselessly as he convulsed. But bit by bit his body stilled as the cure took hold.
+
+</section>

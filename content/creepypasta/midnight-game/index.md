@@ -8,13 +8,15 @@ thumbnail:
 tags:
     - Rituals
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
 
-{{< figure 
+<section>
+
+{{< figure
 div="float-right" >}}
 ![Candle](candle.jpg)
 {{</figure>}}
@@ -54,7 +56,7 @@ STEP 4:
 ADDITION:
 : Indications that you are near the Midnight Man will include a sudden drop in temperature, seeing a pure black, humanoid figure through the darkness, and hearing very soft whispering coming from an indiscernible source. If you experience any of these, it is advised that you leave the area to avoid the Midnight Man.
 
-  
+
 *DO NOT turn any of the lights on during the Midnight Game.*
 
 *DO NOT use a flashlight during the Midnight Game.*
@@ -70,3 +72,5 @@ ADDITION:
 Even when the game is over, he will always be watching you...
 
 Good luck, you are going to need it.
+
+</section>

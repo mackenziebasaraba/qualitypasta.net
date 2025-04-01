@@ -15,6 +15,8 @@ build:
 draft: false
 ---
 
+<section>
+
 I was still pretty shook up from the last level when I started "Trance". Trance's
 map music did nothing to ease the tension. As for how to describe it... have you
 ever heard the theme from Videodrome? That's the closest thing I can think of it
@@ -293,3 +295,5 @@ bathroom to splash some water on my face. (And to take a piss that I nearly fail
 to contain when that fucking thing looked at me.)
 
 !["Dementia"](dementia.png)
+
+</section>

@@ -8,12 +8,14 @@ thumbnail:
 links:
     - "[Screens : nosleep](http://www.reddit.com/r/nosleep/comments/krdm0/screens/)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 weight: 05
 ---
+
+<section>
 
 I've intentionally withheld some details from a lot of my stories. I've let my hopes concerning the way things might influence my evaluation of the way they actually are. I don't think there's any point to that anymore.
 
@@ -260,3 +262,5 @@ I tried not to think about the contents of those pictures. But I remember wonder
 My mouth went dry and I felt the painful sting of despair as I thought of the last message I received from her phone...
 
 *See you again. Soon.*
+
+</section>

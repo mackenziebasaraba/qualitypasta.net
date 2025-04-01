@@ -1,6 +1,5 @@
 ---
-date: '2025-02-09T02:54:38-07:00'
-lastmod: '2013-06-17T02:54:38-07:00'
+date: '2013-06-17T02:54:38-07:00'
 draft: false
 title: 'The Sandman'
 tags:
@@ -11,6 +10,8 @@ authors:
 links:
     - "[The Sandman](https://www.creepypasta.com/the-sandman/)"
 ---
+
+<section>
 
 > “Those who dream by day are cognizant of many things that escape those who dream only at night."
 
@@ -152,7 +153,7 @@ James' mouth went dry. It took several tries before he could speak. "Don't call 
 
 "but i am. your family."
 
-The longer it talked the more the voice became distorted and blurred. An icy feeling nestled in James' stomach. "Who are you?" 
+The longer it talked the more the voice became distorted and blurred. An icy feeling nestled in James' stomach. "Who are you?"
 
 "someone. who came to visit."
 
@@ -194,7 +195,7 @@ James blinked again. The thing's voice caused a pinching pain in the center of h
 
 James' hands began to shake. "That doesn't make sense. Made out of what?"
 
-"out of. myself." 
+"out of. myself."
 
 James' stomach turned over.
 
@@ -255,3 +256,5 @@ And there were other things about him that worried her too. Sometimes she would 
 James still said he'd never had kids, and neither had she. She'd long wanted one, but it was impossible, and she worried that James wouldn't stay with a woman who couldn't be a mother (though he constantly assured her that it was not so). There were times—and more and more often of late they were the nights when James took to sleepwalking, and even Abigail imagined that she heard strange, scuttling noises in the house and saw impossible shapes in dark corners—when she thought she would do anything, absolutely anything, if it meant having a little daughter for she and James to raise.
 
 And at those moments, she became truly afraid. But she never knew why.
+
+</section>

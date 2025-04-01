@@ -20,6 +20,8 @@ build:
 draft: false
 ---
 
+<section>
+
 In 2023, I was a PhD student in biology and attended an ESA conference (mostly presenting some astrobiology related research results, nothing fancy or controversial). During a networking event, a US Navy officer who was attending the conference struck up a conversation with me. He seemed particularly interested in my research background and, after some small talk, casually suggested I apply for a military sponsored research project. He said they needed biologists for a study in the North Sea.
 
 I had no gf, no pets, no immediate career plans, and the pay was good. So I applied. The selection process was bit hysterical. Security clearances, background checks, even questions about an old high school friend I hadn’t talked to in years (I learned he is gay and living in China). By that point I knew this wasn’t a regular project, but still, I had nothing to hide, so I went along with it.
@@ -52,6 +54,10 @@ Some people, including myself wanted to continue, but the Navy didn’t want to 
 During my stay there, one of the Navy liaisons told me they didn’t care if we talk about what we saw there. No one would believe us without a proof and the government’s own disinformation psyops would bury the truth in noise anyways. I haven’t told anybody about this, but I’m not worried about getting disappeared. I’m just sad I’ll probably never get any answers or credit. Recently I realised that since I wasn’t allowed to take any notes with me, I should write it all down before I start to forget.
 
 Feel free to ask questions. I’ll try to answer, just keep in mind I was only a junior researcher there.
+
+</section>
+
+<section>
 
 > **Anon 1:** Draw the craft.
 
@@ -122,3 +128,4 @@ We ran some bacterial cultures using samples from the pressurised chamber. Nothi
 The wreck might still be there, but my bet is that it was already removed by the navy. If I were to bet they wanted us to just confirm that it was dead and not dangerous before moving it to US.
 There were plenty of control panels, each body was seated behind one. All were busted so all I saw were some buttons and (most likely) dead screens. Two smaller bodies were plugged into the panels directly.
 
+</section>

@@ -8,12 +8,14 @@ links:
 type: longpasta
 layout:
 build:
-    list: 
-    publishResources: 
+    list:
+    publishResources:
     render:
 weight: 05
 draft: false
 ---
+
+<section>
 
 A few weeks later, I received a reply from the former Lost Media Society admin, the one who was said to be attempting to collect lost episodes. He told me he was not aware of an *Aristocats* lost episode version, but that he was nevertheless now in possession of several lost episode copies, and was willing to show them to me, for a price. To be exact, he wanted a thousand dollars. I agreed without hesitation. I was not at a point in my life where I could comfortably spend a thousand dollars on anything let alone a prospect that might not deliver, but I was afraid trying to talk him down to a lower offer would make him break contact, and something in my gut told me his claims at least were sincere.
 
@@ -104,3 +106,5 @@ I looked at the man. He gave me a look back, a look of understanding that there 
 The man said some goodbye formalities, put his hand over my shoulder, and aggressively led me to the door, closing and locking it behind me.
 
 He never saw my camera. During the "Lion" short, I had managed to snap a quick digital photo of the TV screen while the man wasn't looking, and had put the camera back away before the whole bad acid trip thing. I had the photo enlarged and enhanced and studied it. It was still frightening even without the psychedelic properties of the animated short. Again, despite being a cartoon, it had such detail and realism that it seemed more alive than I thought a cartoon could.
+
+</section>

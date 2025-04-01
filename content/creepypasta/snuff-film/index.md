@@ -1,7 +1,6 @@
 ---
 title: Snuff Film
-date: 2025-02-08T17:34:27-07:00
-lastmod: 2011-11-17T17:34:27-07:00
+date: 2011-11-17T17:34:27-07:00
 type:
 layout:
 description:
@@ -11,11 +10,13 @@ tags:
 links:
     - "[Snuff Film - Creepypasta Wiki](https://creepypasta.fandom.com/wiki/Snuff_Film)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 Of course nobody believes in snuff films. They're just too sick to be real, right? Nobody in their right mind would actively produce evidence against themselves like that, let alone make money off of it.
 
@@ -45,4 +46,4 @@ The angle of the camera changed, and the man hit her head again, this time burst
 
 It was the most satisfying movie I've ever made.
 
-
+</section>

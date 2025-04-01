@@ -1,6 +1,5 @@
 ---
 title: The Rat King
-date: 2025-02-08T17:47:06-07:00
 date: 2017-07-08T17:47:06-07:00
 type:
 layout:
@@ -14,11 +13,13 @@ authors:
 links:
     - "[The Rat King](https://creepypasta.fandom.com/wiki/The_Rat_King)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 Seventy years of life, I'd thought I'd seen everything. Turns out, no matter how long 'ya get in the tooth, life can still throw you for a loop. My name's Dale, and I've got one hell of a tall tale for you.
 
@@ -73,3 +74,5 @@ I'm glad I lived through that ordeal, but I couldn't help feeling a bit depresse
 To this day, none of us are sure if the Rat King we caught actually died or managed to survive. It certainly looked like it'd been through worse, after all. Once I'm healed up and the 15th of next month rolls around, me and the gang will be out in those same woods, hunting like nothing ever happened. If we find that thing again, it'll be a damned miracle.
 
 I just hope that whatever that thing was, it was the only one of its kind. God help us if there are more out there.
+
+</section>

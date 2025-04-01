@@ -20,6 +20,8 @@ build:
 draft: false
 ---
 
+<section>
+
 The shit story of my hunt for ancient germanic spirit
 (featuring my bad english)
 
@@ -215,3 +217,5 @@ The shit story of my hunt for ancient germanic spirit
 - strugeling with my study will become a dropout soon
 - opsesively watching my cameras for a sign of Derk, just to prove that its out there
 {{</greentext>}}
+
+</section>

@@ -8,6 +8,8 @@ links:
 weight: 04
 ---
 
+<section>
+
 Hey guys! I'm back from my training op, and I have a lot of really interesting stories to share with you. I've got enough that I'm going to break them up into two parts, this being the first. I'd love to put them all in one entry, but I just haven't had a chance to write them all down yet. I didn't have anything too crazy happen while I was out there, but we did have one incident with a rookie that I found relevant. Since I’m sure you guys have been waiting for these, I'll just get right into the stories. I'll assign each batch of stories to the person who told them to me.
 
 K.D is a vet who's been an SAR officer for about fifteen years. She specializes in high elevation mountain rescues, and is widely considered one of the best in her field. She was one of the more enthusiastic storytellers, and since we were together a fair amount during exercises, she ended up telling me about four that really stuck with me.
@@ -83,3 +85,5 @@ We were both quiet for a little while. I was afraid to talk because I wasn’t s
 "Have you ever noticed how you can't find the same ones twice?" I nodded, expecting him to continue. But he just stayed quiet, walking alongside me, and eventually he started a story about the biggest deer he’d ever seen in the park. I didn't bring up the subject again, and I didn’t press him for any more stories. He dropped out of the op the next day. Apparently he left before the sun came up; he said he was sick. None of us have heard from him since he left.
 
 I'm going to stop here for the time being. I'll try and post the next part in the coming days, but what with it being the end of summer, things are pretty busy here. Thanks for the continued interest, guys, you’ve really awakened this curiosity in me that I didn't know I had!
+
+</section>

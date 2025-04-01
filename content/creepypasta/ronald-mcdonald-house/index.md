@@ -1,6 +1,5 @@
 ---
-date: '2025-01-12T20:23:18-07:00'
-lastmod: '2013-07-25T20:23:18-07:00'
+date: '2013-07-25T20:23:18-07:00'
 draft: false
 title: 'Ronald McDonald House'
 tags:
@@ -11,6 +10,8 @@ authors:
 links:
     - "[Ronald McDonald House - Creepypasta Wiki](https://creepypasta.fandom.com/wiki/Ronald_McDonald_House)"
 ---
+
+<section>
 
 I'm sure you've heard of the Ronald McDonald House charity. They provide housing
 for the families of sick kids when they're in the hospital. Seems pretty
@@ -417,4 +418,4 @@ All I can do is join him.
 
 ![Dark Ronald](DarkRonald.jpg)
 
-
+</section>

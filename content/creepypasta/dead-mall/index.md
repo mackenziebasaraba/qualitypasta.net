@@ -20,6 +20,8 @@ build:
 draft: false
 ---
 
+<section>
+
 {{<figure
 div = "float-right invert-light" >}}
 ![sleepypines-768x768.png](sleepypines-768x768.png)
@@ -684,3 +686,5 @@ While I’m still in the area, I drive to what remains of Sleepy Pines one last 
 At first, I think they’re all still there, just waiting to be broken apart and tossed into a landfill. But on closer inspection, I find that the elegant brushstrokes of the nighttime woods suddenly end and are not present in the last third of the mural on the left side, where it was still blank and incomplete in Mike and Jenna’s videos.
 
 The paint is still there, as are the trees and dark colors of that ominous forest, but the subtle texture only the touch of human hands can create has been replaced by something mechanical; what was changed and then changed back is now an unfeeling reproduction that could never get right the true authenticity of real historical art, made by someone who cared.
+
+</section>

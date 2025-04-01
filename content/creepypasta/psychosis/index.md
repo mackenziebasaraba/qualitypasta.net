@@ -1,6 +1,5 @@
 ---
-date: 2025-01-12T20:37:44-07:00
-lastmod: 2010-11-03T20:37:44-07:00
+date: 2010-11-03T20:37:44-07:00
 draft: false
 title: Psychosis
 tags:
@@ -14,11 +13,15 @@ links:
     - "[*Psychosis: Tales of Horror*](https://www.amazon.com/Psychosis-Tales-Horror-Matt-Dymerski-ebook/dp/B005DSU784/)"
 ---
 
-{{<disclaimer>}}
+<section>
+
 Now apart of Matt Dymerski's collection *Psychosis: Tales of Horror*, [available on Amazon](https://www.amazon.com/Psychosis-Tales-Horror-Matt-Dymerski-ebook/dp/B005DSU784/).
-{{</disclaimer>}}
 
 [<figure><img src="psychosis-tales-of-horror.jpg"></figure>](https://www.amazon.com/Psychosis-Tales-Horror-Matt-Dymerski-ebook/dp/B005DSU784/)
+
+</section>
+
+<section>
 
 ### Sunday
 
@@ -123,7 +126,7 @@ obviously."
 
 "Where are you?" she asked.
 
-My eyes glanced over the drab white-washed cylinder block walls and the heavy 
+My eyes glanced over the drab white-washed cylinder block walls and the heavy
 metal door with its small window.
 
 "At my building," I sighed. "Just feeling cooped up. I didn't realize it was
@@ -229,7 +232,7 @@ myself, then flung the heavy front door wide open and ran like hell down the
 stairs to my room and slammed the door. I watched the webcam on my computer
 intently, seeing the hallway outside my door and most of the stairwell. I’m
 watching it right now, and I don't see anything interesting. I just wish the
-camera's position was different, so that I could see out the front door. 
+camera's position was different, so that I could see out the front door.
 Hey! Somebody's online!
 
 ---
@@ -580,3 +583,5 @@ the delusional man. He wanted to scream, but the nerve filaments wrapped
 around his head and into his eyes made him do otherwise. His body walked
 into the cell like a puppet, and told the patient, once more, that he was
 wrong, and that there was nobody trying to deceive him.
+
+</section>

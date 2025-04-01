@@ -8,6 +8,8 @@ links:
 weight: 02
 ---
 
+<section>
+
 So I logged back on tonight and was blown away by the staggering amount of interest this seems to have generated. First off, I'll address a few things that you guys have brought up:
 
 There's been an overwhelming amount of people mentioning the similarity between some of my stories and those of David Paulides. I assure you I'm not trying to rip him off in any way; I've got nothing but respect for the guy. He's actually what inspired me to write this, because I can verify a lot of the things he talks about. We do have a lot of these strange missing persons cases, and most of the time, they aren't solved. Either that, or we find them in places they have no business being. I personally haven't been on many calls like that, but I'll share a few that I've seen, and a story my friend told me that relates to this.
@@ -73,3 +75,5 @@ As comical as it makes it sound, it was almost like that guy on South Park with 
 So this kind of turned into a massive wall of text, and for that, I apologize. I wanted to get to the stories my friend told me, and he does have some good ones, so I'll post those tomorrow evening. I also have a few more of my own I think you guys will like. I'm sorry to keep you all in suspense again, hopefully the stories here make up for it and help you get through the next 24 hours until I can post again!
 
 *EDIT: Since it seems like all of you would like to hear more, tomorrow I'll write up as many stories as I can and do a massive post. I'll include my friend's stories, and I'll see if I can't get ahold of a few more people who might have interesting things to talk about. I just wasn't sure how people felt about big huge walls of text, but if you're all okay with it, I'll post lots of stories!*
+
+</section>

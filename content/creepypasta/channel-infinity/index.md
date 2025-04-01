@@ -17,6 +17,8 @@ build:
 draft: false
 ---
 
+<section>
+
 There is a legend circulating around the television industry about Channel &infin;.
 
 Channel &infin; is hard to get to, and reports vary as to what it actually is. I will tell you how to get there and then what to do.
@@ -74,3 +76,5 @@ If it is one of the first three, you will wake up in front of the television and
 After this, you will have reached Channel &infin;. What you do now is up to you. If you go to the guide function, you will see shows listed such as "The Meaning of Life" or "How to Acquire True Love". Choose one. The amount of people you have outside the door with you determines the revelations in the shows. The more people, the better chance you have of seeing shows with life-changing results. Or, if you keep watching the static, without going to the guide or breaking eye contact with the television, you will see a series of images that will, if deciphered, reveal the answer to your greatest question. There are, at this point, many options, too many to write here. Just do what you feel like you must, and something will happen. The overwhelming majority of things will be good, but some will be bad. You may leave the room at any point. However, there are two catches. You may never speak of what you learned after accessing Channel ∞, and you may only reach Channel ∞ four times in your life.
 
 I hope you find the experience enlightening.
+
+<section>

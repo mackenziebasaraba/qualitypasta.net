@@ -1,7 +1,6 @@
 ---
 title: The Harbinger Experiment
-date: 2025-02-08T17:22:50-07:00
-lastmod: 2013-12-20T17:22:50-07:00
+date: 2013-12-20T17:22:50-07:00
 type:
 layout:
 description:
@@ -13,11 +12,13 @@ tags:
 authors:
     - Zyon J
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 The world we live in is full of things we don't understand. Being the curious humans that we are, we naturally try and seek these things out. Doing so has led us to remarkable discoveries and inventions that we never could have imagined a hundred years ago. We have defeated disease, built to the sky itself and even created machines that could take us beyond the clouds and into the stars. If our ancestors could see us and what we have created, I'm sure many of them would see us as gods.
 
@@ -210,3 +211,5 @@ I am as much to blame as Zimmerman is for the monstrosity that is now free to ro
 I'm sorry.
 
 Please forgive me.
+
+</section>

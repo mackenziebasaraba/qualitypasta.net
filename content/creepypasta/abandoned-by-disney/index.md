@@ -13,11 +13,13 @@ links:
     - "[Abandoned By Disney - slimebeat](http://slimebeast.wikidot.com/abandoned-by-disney)"
 license: "[CC BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)"
 build:
-    list: 
-    publishResources: 
-    render: 
-draft: true
+    list:
+    publishResources:
+    render:
+draft: false
 ---
+
+<section>
 
 Some of you may have heard that the Disney corporation is responsible for at least one real, "live" Ghost Town.
 
@@ -229,6 +231,11 @@ That's when Mickey, that photo negative, opposite-Mickey in the middle of the fl
 
 First sitting up, then climbing to its feet, the Mickey Mouse costume… or whoever was inside of it, stood there at the center of the room, its fake face just starting directly at me as I mumbled "No…" over and over and over…
 
+{{<figure
+div="float-right" >}}
+![Reverse Mickey](Reverse-mickey.gif)
+{{</figure>}}
+
 With shaking hands, a violently thrashing heart, and legs that had once again turned to jelly, I managed to lift the camera and aim it at the opposite creature now quietly sizing me up, head tilted.
 
 The digital camera's screen displayed only dead pixels in the shape of the thing. It was a perfect silhouette of the Mickey costume. As the camera moved in my unsteady hands, the dead pixels spread, marring the screen wherever Mickey's outline moved to.
@@ -254,3 +261,5 @@ I never got the pictures out of the camera. I never wrote the blog entry about i
 They didn't want anyone like me getting in.
 
 They didn't want anything like that getting out.
+
+</section>

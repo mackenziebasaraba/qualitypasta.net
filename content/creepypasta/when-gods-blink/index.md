@@ -11,14 +11,15 @@ authors:
     - CharminglyShallow
 links:
     - "[When Gods Blink](https://creepypasta.fandom.com/wiki/When_Gods_Blink)"
-license:
-    - "[CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0)"
+license: "[CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 *On the 25th March, at 14:57GMT, the world stopped for 27 minutes and 54 seconds. No one noticed at first. Those that eventually did were ordered to keep quiet.*
 
@@ -353,3 +354,5 @@ After a while he finished his beer, rested it gently down next to him, and then 
 I turned in disbelief to argue with him at this irresponsible attitude, and then saw the barely suppressed laughter in his eyes. When all was said and done, what was there left to do but wait and see what happened, and laugh at the absurdity of it all? He started, and I joined in, till the tears were rolling down our cheeks.
 
 And there we sat, laughing and drinking beer until our world ended... maybe.
+
+</section>

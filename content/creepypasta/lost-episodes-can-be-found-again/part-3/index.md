@@ -8,12 +8,14 @@ links:
 type: longpasta
 layout:
 build:
-    list: 
-    publishResources: 
+    list:
+    publishResources:
     render:
 weight: 03
 draft: false
 ---
+
+<section>
 
 A few months went by with no response. During this time I researched as much as I could about lost episodes. I found out about another alleged "lost episode" of "The Flintstones". The story behind this episode was much like other "lost episode" stories: a special episode of the show aired on an otherwise unused television channel and had gory and surreal content. The main difference between this story and the others was that this one had a somewhat credible outside source. The original forum post had a link to a digitally archived local news article from 1979. The FCC had received complaints from dozens of people claiming to have seen the episode. The complaints came from the Lake Kabetogama region of Minnesota, with most originating from a couple of specific lake resorts. The incident was locally known as the Kabetogama Broadcast.
 
@@ -38,3 +40,5 @@ I pondered all I had learned on my drive home. I had been left with more questio
 While I was churning all this information over in my mind, I didn't notice the vehicle behind me until it was right up on my bumper. I swerved as it made contact, and careened into a ditch. The other car drove on without stopping. I wasn't injured, in fact my airbag hadn't even deployed, but I sat in shock for many, many minutes afterward.
 
 When I finally got my bearings, I called 911 and told them my location based on the nearest mile marker. It took about 45 minutes for a state officer to find me. I told the police what had happened, but wasn't able to provide details such as the make and color of the car that had hit me or the license plate. I did not tell them what business I was on or my lingering suspicion that the incident had to do with my investigation of the Kabetogama Broadcast.
+
+</section>

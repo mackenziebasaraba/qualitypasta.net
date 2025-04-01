@@ -23,6 +23,8 @@ build:
 draft: false
 ---
 
+<section>
+
 The story you are about to read is one that has been, for the last 70 years, left to wither in the hearts of those few who recall it. Of the twelve of us present that day, only I remain, and my own end is rapidly approaching. I write this tale with shaky hand solely in order to console myself in my final moments, and I hope anyone who may discover this document will refrain from judgement upon me or my comrades until the end.
 
 I distinctly recall sitting in a tent with my fellow soldiers just outside of Berlin, huddling around a shortwave radio and listening to the trials of our nation’s greatest foes. They feigned insanity, pled guilty, gave harrowing accounts of every detail and every single crime committed by their hand or under their watch. My favorites, however, were the ones who pled innocent; the ones who said, “I was just following orders”.
@@ -66,3 +68,5 @@ That was one week ago, and now it is my turn. I know he is coming; every night i
 I will stay up as late as possible, and before I sleep I will climb to the roof and stand on the edge. I must. I cannot know what he will say. The shot at us, the woman killed Ivan; we couldn’t have known about the baby, we were just eliminating the resistance, that’s all! We were only following orders!
 
 Only following orders...
+
+</section>

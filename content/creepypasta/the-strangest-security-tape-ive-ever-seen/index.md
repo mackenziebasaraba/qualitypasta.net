@@ -1,7 +1,6 @@
 ---
 title: The Strangest Security Tape I've Ever Seen
-date: 2025-02-13T00:27:18-07:00
-lastmod: 2012-05-23T00:27:18-07:00
+date: 2012-05-23T00:27:18-07:00
 type:
 layout:
 description:
@@ -13,11 +12,13 @@ authors:
 links:
     - "[The Strangest Security Tape I've Ever Seen](https://www.reddit.com/r/nosleep/comments/u0ymh/the_strangest_security_tape_ive_ever_seen/)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 I work at a gas station in rural Pennsylvania. It's a boring job, but it's pretty easy and it pays all right. A few weeks ago, this new guy started; I'll call him Jeremy.
 
@@ -82,3 +83,5 @@ Four men in suits greeted me and told me to have a seat. We went over everything
 So now I'm home. I'm not sure what to do with myself. That agent's words when I told him the story are going to haunt me for the rest of my life.
 
 Anyway, I've got to go. I have some errands to run today, and then I have to go into work to pick up some tapes. My boss and I think this new guy Jeremy (he's a complete creep) is stealing motor oil and I have to watch the security footage to see if I can catch him doing it. I have better things to do, but my boss is paying me overtime, under-the-table, and I'm trying to save up for vacation so I could really use the money. It should be pretty simple; the oil always goes missing right after his shifts. I figure I'll just watch the tapes, catch him in the act, and that will be that.
+
+</section>

@@ -13,11 +13,13 @@ license: "[CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0)"
 type: longpasta
 layout:
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 I'm going to tell you a secret. But first, you have to promise me you won't laugh. This is still an uncomfortable subject for me, so I'd appreciate your understanding. Do we have a deal?
 
@@ -53,3 +55,5 @@ I told one of my friends about it a few days later. I didn't let him know how co
 I streamed and watched *Felidae*. I saw what my friend meant about the style having the same feel as *The Aristocats* except dark and bloody, but it wasn't what I had seen. I knew, I knew for sure, that five-year-old me had watched a movie with the same characters as *The Aristocats*, and I also knew for sure that it had contained bizarre and disturbing scenes not shown in the mainstream version.
 
 This whole thing was driving me up a wall. To try and get some kind of closure, I started seeking out and watching old children's animation that contained graphic and disturbing elements that would never be included today, such as *Watership Down*, the 1978 version. While these works were interesting and gripping in their own way, they were decidedly non-Disney. While other studios may have been willing to take such risks with their works decades ago, the fact that *The Aristocats* is a Disney property made me sure that the version I had first seen was something I was absolutely not supposed to, ever.
+
+</section>

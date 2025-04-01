@@ -15,6 +15,8 @@ build:
 draft: false
 ---
 
+<section>
+
 In the original game, the 6th world was Pluto. Ironically, despite being the
 smallest planet, Pluto was the largest and most diverse world in the game.
 Entropy had a different layout, but was similarly huge and diverse.
@@ -861,3 +863,4 @@ Next was the penultimate world, called "Extus":
 
 !["EXTUS"](extus.png)
 
+</section>

@@ -8,6 +8,8 @@ links:
 weight: 03
 ---
 
+<section>
+
 Well, once again, you guys have blown me away with your staggering amount of responses to my stories! There's no way I can respond to each of you individually, so I'm just going to address some common things again, and then move on to the stories. I'm going to write as many as I can think of, in addition to my friend's stories, and I will probably not update again until I get a chance to answer some questions that I myself have for my superiors.
 
 Alright, so the common questions I found you all had:
@@ -56,7 +58,7 @@ I know it sounds sort of anti-climactic, but that call fucked me up for a long t
 
 -   A single vertebra and right kneecap of a three-year-old girl, found in the snow almost twenty miles from the campground her family had been at the previous summer.
 
-  
+
 
 Now on to a couple of the stories my friend told me. I mentioned that you were all interested in the stairs, and you're in luck: he's had a closer encounter with them. Though he doesn't have any explanation for them, he does have a bit more experience with them than I do.
 
@@ -85,3 +87,5 @@ Now, as most of you know, when a mountain lion screams, it sounds almost exactly
 When he was about a mile from ops, the screaming stopped, and he turned around to see if it was following him. It was almost night by this point, but he said that in the distance, just before the path rounded a corner, he could see what looked like a male figure. He called out to them, warning them that the paths were closed and that he needed to come back to the welcome center. The figure just stood there, and my buddy started to walk over. When he was about ten yards away, the figure took, as he described, 'an impossibly long step' toward him and let out the same scream my buddy had been hearing. My buddy didn't even say anything; he just turned and sprinted back to ops, never looking behind him. By the time he got back, the screaming had moved back into the woods. He didn't mention it to anyone else, just said that there was a mountain lion in the area and that they would need to close those paths until the animal could be located and moved.
 
 I'm going to end this entry here, since it's turned into a huge wall of text. I'm going to be heading out on a yearly training op tomorrow morning, so I'll be gone until early next week. I'll be meeting with a lot of former trainers and buddies who work in other areas of the park, and I'll be asking around about any stories they'd like to share. I'm so glad you guys have been interested in my stories, and once I'm back from this op, I'll continue to share them!
+
+</section>

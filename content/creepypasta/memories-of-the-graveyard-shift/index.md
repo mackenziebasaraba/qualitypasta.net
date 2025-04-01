@@ -1,7 +1,6 @@
 ---
 title: Memories of the Graveyard Shift
-date: 2025-02-13T00:41:47-07:00
-lastmod: 2024-08-21T00:41:47-07:00
+date: 2024-08-21T00:41:47-07:00
 type:
 layout:
 description:
@@ -12,11 +11,13 @@ tags:
 authors:
     - D.D. Howard
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 I was eighteen at the time. I'd just graduated high school, and what was probably a really exciting and memorable time for most people was a stressful race against time for me. You see, my dad was very traditional; if I were going to be living in his house after high school, even just over the summer between graduation and college, I needed a job. If not, I was "freeloading", and he swore with an adamance I certainly didn't care to test that I'd be out on the street if I was unemployed for long. I'd had months of preparation; hell, years, really. This entire time I could've been looking; he certainly hadn't waited until now to clue me in on the terms of living with him after high school. But I just wasn't the type to care that much about anything until I was days from a deadline.
 
@@ -60,7 +61,7 @@ That actually happened last week, but who's counting.
 
 He tapped his card on the reader, and while the sale processed, I remember actually feeling slightly concerned for the guy. I wasn't a big fan of cops, but one of them had died around here recently after all, and just talking with this guy face-to-face sort of humanized him to me.
 
-As he cupped the top of the drink and slid it off the counter, I said, "Stay safe out there."  
+As he cupped the top of the drink and slid it off the counter, I said, "Stay safe out there."
 He glanced at me and raised an eyebrow.
 
 "You know something I don't?"
@@ -289,7 +290,7 @@ So Amber Wicker was her name, and as far as the police knew, she was missing.
 
 But I knew she was dead.
 
-After all, every customer that had walked in beneath the flickering sign had been a corpse, and as much as I wanted to believe otherwise, I assumed her case wasn't any different.  
+After all, every customer that had walked in beneath the flickering sign had been a corpse, and as much as I wanted to believe otherwise, I assumed her case wasn't any different.
 So as much as I wanted to stop working at that place, as much as it bothered me to see those ghosts walking the fated paths of their memories through the purgatory that was the Pass & Go off 84th Avenue, I had to stay. I had to wait until Amber came back, so I could gather enough evidence to give to police. After all, though some of the dead only came in once, like the biker, others had come in twice like Officer Brady, and even others had come in on almost a weekly basis like the scratch-off lady.
 
 Eventually, I hoped, she would come back.
@@ -318,7 +319,7 @@ So somewhere north of here, she must have died.
 
 And maybe, just maybe, I could figure out where.
 
-By morning, I still hadn't seen her, or any ghost for that matter, and after chatting with Teagan, my morning relief, I walked out to my car. But though I'd planned on driving home and getting some sleep, then searching later, I just couldn't resist the urge to look right then and there. And so, in my Pass & Go uniform and all, I walked over to the turnoff where I'd seen that phantom truck head right, and then did the same, walking north up the road.  
+By morning, I still hadn't seen her, or any ghost for that matter, and after chatting with Teagan, my morning relief, I walked out to my car. But though I'd planned on driving home and getting some sleep, then searching later, I just couldn't resist the urge to look right then and there. And so, in my Pass & Go uniform and all, I walked over to the turnoff where I'd seen that phantom truck head right, and then did the same, walking north up the road.
 The sun was just barely rising over the trees, and I couldn't remember the last time I'd appreciated a sunrise. Usually, I sped home, trying to beat the sunlight to my room where I could shut my blackout curtains and crash as if it were still night, then I'd wake up at three or four in the afternoon. But this morning, moving slowly up the road along the canal and constantly scanning for anything out of the ordinary, I couldn't help but enjoy the orange glow above the trees.
 
 By the time I'd walked about two miles, the sun was fully above the horizon, and cars were starting to sparingly appear on 84th, though admittedly not many, as this wasn't the most direct route to anywhere in town except the Pass & Go. I'd already passed the infamous bend, and even felt obligated to pause there a moment before the canal, sort of waiting in reverent silence as I remembered the stare that biker had given me, the regret permeating his eyes. By now, though, it could no longer be considered a canal; it was a drainage ditch at best, a muddy, shallow dip off the road, and beyond it was the forest.
@@ -365,7 +366,7 @@ The girl with black hair and big brown eyes, taking her next big step in life.
 
 The last big step she'd ever take.
 
-I was glad I had been able to help her family get some closure, and hell, even lead to the arrest of the bastard that killed her, whose DNA was recovered at the scene of the crime. But even still, at the end of the day, none of that would bring her back. I just felt hollow.  
+I was glad I had been able to help her family get some closure, and hell, even lead to the arrest of the bastard that killed her, whose DNA was recovered at the scene of the crime. But even still, at the end of the day, none of that would bring her back. I just felt hollow.
 Finding her body, providing her parents whatever relief they could find, and putting that monster in jail, still wouldn't bring that innocent, naïve girl back to life.
 
 And as I listened to a podcast on the graveyard shift on my last night of work at the Pass & Go, four days before I'd be heading off to college, I found myself constantly distracted thinking about that. But slowly, I got my mind off things, paying more attention to the podcast and starting to stare off into space at last, the shift beginning to fly by.
@@ -440,7 +441,7 @@ I let out a long sigh, handing her the stuff.
 
 She took her unceremonious last meal, then turned over to the door, walking toward the oscillating neon.
 
-"Have a good rest of your night, Carter," she glanced at my nametag, smiling slightly at me.  
+"Have a good rest of your night, Carter," she glanced at my nametag, smiling slightly at me.
 It broke my heart.
 
 "You too, Amber."
@@ -460,3 +461,5 @@ I trembled as I found her teary gaze, the desperation and regret staining her pa
 I couldn't possibly muster a response.
 
 And then Amber turned, the afterimage of her corpse climbing into the passenger-side door of her murderer's truck. I remained frozen in place, my eyes following every last fleeting second of Amber's existence as the taillights glowed, and the engine hummed. Then the truck pulled off, pausing at the turnoff. And then, as it pulled away, turning right on 84th Avenue and heading to her shallow grave, the neon of the sign stopped flickering, leaving me standing there alone again in silence.
+
+</section>

@@ -15,6 +15,8 @@ build:
 draft: false
 ---
 
+<section>
+
 "Oh dear god."
 
 That was my first thought on realizing I would have to fight "Red", the creature
@@ -433,3 +435,4 @@ left, Melissa had something to tell me:
 
 !["*GODZILLA: MONSTERS OF MONSTERS!"](Ending8.png)
 
+</section>

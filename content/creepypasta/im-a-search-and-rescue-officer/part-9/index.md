@@ -8,6 +8,8 @@ links:
 weight: 09
 ---
 
+<section>
+
 It's been a while, hasn't it?
 
 I know everyone says it but time has this really strange way of flowing when you're an adult. I guess I'm at that age where I'm in between being a kid and getting old. Or maybe that's your entire life. In between things.
@@ -29,3 +31,5 @@ The stairs were concrete, old. I could make out the lines of graffiti on the low
 We're keeping an eye on a lot of things.
 
 **EDIT:** I've been getting a lot of messages about the length and quality of this post. I'm sorry, guys, I know it's not as detailed or as long as my past updates. I wrote it in the middle of the night after getting home from an emergency at the park, which I'll discuss later. I needed to vent a bit, I guess. Perhaps I should have waited to write all this down when my mind, and my memory, were a bit clearer. I'll do my best to make the next update a little more interesting.
+
+</section>

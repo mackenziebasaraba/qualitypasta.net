@@ -1,7 +1,6 @@
 ---
 title: Children of Mirth
-date: 2025-02-13T14:20:45-07:00
-lastmod: 2014-03-12T14:20:45-07:00
+date: 2014-03-12T14:20:45-07:00
 type:
 layout:
 description:
@@ -14,11 +13,13 @@ authors:
 links:
     - "[Children of Mirth](https://creepypasta.fandom.com/wiki/Children_of_Mirth)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 I loved horrifying images.
 
@@ -109,3 +110,5 @@ I laughed. I laughed for what felt like hours until I passed out from exhaustion
 My life since has been uneventful. I eventually found work in a small graphic design firm, and my life has been quiet. Still, some nights, I hear my children calling to me from the darkness of my room.
 
 "Laugh."
+
+</section>

@@ -13,11 +13,13 @@ authors:
 links:
     - "[My dead girlfriend keeps messaging me on Facebook. I’ve got the screenshots. I don’t know what to do.](https://www.reddit.com/r/nosleep/comments/29kd1x/my_dead_girlfriend_keeps_messaging_me_on_facebook/)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 My girlfriend Emily died on August 7th of 2012.
 
@@ -29,14 +31,14 @@ That being said, she wasn't perfect. She always said something along the lines o
 
 I know, that's tangential, but I don't feel right without you having an idea of what she was like. Em had been dead for approaching 13 months when she first messaged me.
 
-  
+
 **September 4, 2013**
 
 ![The first message I got from 'Emily'](Message-1.png)
 
 This is when it began. I had left Emily's Facebook account activated so I could send her the occasional message, post on her wall, go through her pictures. It felt too final (and too un-Emily) to memorialize it. I 'share' access with her mother (Susan) - meaning, her mother has her login and password and has spent a total of three minutes on the account (or total on a computer). After a little confusion, I thought it was her.
 
-  
+
 **November 6, 2013**
 
 ![The second message I received.](Message-2.png)
@@ -53,7 +55,7 @@ She would tag herself in random photos every couple of weeks. The friends who no
 
 At this point, you may be wondering 'Why didn't you just kill your Facebook profile?' I almost wish I did. I did for a little while. On days when I can't get out there, it's nice to have friends to chat with. It's nice visiting Em's page when the little green dot isn't next to her name. I was already socially reclusive when Em was alive; her death turned me into something pretty close to a hermit, and Facebook and MMOs were (are) my only real social outlets.
 
-  
+
 **March 15, 2014**
 
 ![My message to 'Emily'](My-Message.png)
@@ -70,13 +72,13 @@ My response seems kinda lackluster here. I was intentionally providing her/him w
 
 I had even changed the password and security details several times.
 
-  
+
 **April 16, 2014**
 
 I received this:
 
 ![Message 4](Message-4.png)
-  
+
 **April 29, 2014**
 
 ![My response](Message-5.png)
@@ -87,7 +89,7 @@ My response here wasn't bait. "yo ask Nathan" was an inside joke that's too lame
 
 Her last few messages have started to scare me, but I wouldn't admit until this point.
 
-  
+
 **May 8, 2014**
 
 I don't even have words for this...
@@ -96,7 +98,7 @@ I don't even have words for this...
 
 'FRE EZIN G' is the first original word she's(?) said. This has given me nightmares that just won't end. I keep dreaming that she's in an ice cold car, frozen, blue and grey. I'm standing outside the car door in the warmth screaming for her to come out. She doesn't even realize I'm there. Sometimes her legs are outside with me.
 
-  
+
 **May 24, 2014**
 
 ![Message 7](Message-7.png)
@@ -107,7 +109,7 @@ Her reply is what prompted me to finally memorialize her page, thinking it might
 
 In the collision, the dashboard crushed her. She was severed in a diagonal line from her right hip to midway down her left thigh. One of her legs was found tucked under the backseat.
 
-  
+
 **August 7, 2012**
 
 Going back in time...
@@ -116,7 +118,7 @@ Going back in time...
 
 These are the messages I sent her the day she died. She was usually home by 4:30. This, alongside a couple voicemails, is the last time I talked to her under the assumption that she was still alive. You'll see why I'm showing you these soon.
 
-  
+
 **July 1, 2014**
 
 I got these messages yesterday:
@@ -142,3 +144,5 @@ I got the message three hours ago, but I didn't want to check it until now...
 Now I'm legitimately scared. I have no idea who took this photo.
 
 I'm on my tablet in my garage. Zen for now. Going to drive to friend's. Forgot to open the garage door in my panic so building up the nerve to get out to do that now.
+
+</section>

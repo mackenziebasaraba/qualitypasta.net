@@ -8,12 +8,14 @@ links:
 type: longpasta
 layout:
 build:
-    list: 
-    publishResources: 
+    list:
+    publishResources:
     render:
 weight: 04
 draft: false
 ---
+
+<section>
 
 Despite this experience, I decided to stick my neck out a little more. This was getting serious, and I needed a clear picture of what I was up against. I had an acquaintance in the FBI who owed my family the favor of a lifetime. I convinced him over dinner that I paid for to look into the Lost Media Group for me.
 
@@ -36,3 +38,5 @@ A few weeks later, he had a document for me. It was an analyst report containing
 I pondered over the report. Membership by invitation only...well-funded, well-connected, must be well-organized. Yet their activities seemed nothing short of bizarre. Why would a group with the kind of resources this group apparently had—unlike the FBI, I was beginning to take the existence of the Lost Media Group for granted at this point—not spend them on more traditional and profitable criminal activities? Why would that many people commit so many resources and risk so much just to make movies? There was no way such a sophisticated syndicate could make enough money off of simple piracy to be considered profitable, and the other crimes listed in the report would seem beyond the scope of expertise of a cabal ostensibly comprised of people in the entertainment industry.
 
 Was it not about money? An ideological or religious motivation, perhaps? Certainly it didn't fit any religion I could think of. And it didn't seem like they were interested in influencing elections. Their motives must be subtler. They had a message they wanted to send, or an influence they wanted to create, using the power of mass media, and were willing to dabble in any number of crimes toward whatever their ultimate end was.
+
+</section>

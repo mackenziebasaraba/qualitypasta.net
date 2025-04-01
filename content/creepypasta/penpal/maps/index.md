@@ -8,12 +8,14 @@ thumbnail:
 links:
     - "[Maps : nosleep](http://www.reddit.com/r/nosleep/comments/kl1cd/maps/)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 weight: 04
 ---
+
+<section>
 
 There was a comment in the last post that made me remember an event from my childhood that I always took as odd but never considered it to be related to any of these stories. I know now that it is. It's funny how memories work. The details might all be present in your mind, though scattered and disarrayed, and then a single thought can stitch them back together almost instantly. I never thought of these events much because I was focused on the wrong details. I went back to my mom's house and went through my old childhood school work looking for something that I think is important. I couldn't find it, but I'll keep looking. Again, sorry for the length.
 
@@ -95,8 +97,8 @@ After we passed the last charted part of our map, the water began to get really 
 
 As Josh amended the map that I was illuminating with the lighter we were suddenly confronted with the fact that the sounds were not imagined. Rapidly and rhythmically we heard:
 
-**Crunch.**  
-**Snap.**  
+**Crunch.**
+**Snap.**
 **Crunch.**
 
 It seemed to be moving slightly away from us, pushing through the woods just beyond our map. It had become too dark to see. We had misjudged how long the sun would linger.
@@ -198,3 +200,5 @@ I shook it off and told Josh the rest of the conversation between Mrs. Maggie an
 Mrs. Maggie had told me that night that Tom had come home, but I know now who had really moved in; just as I know now why I never saw her body brought out on a stretcher.
 
 The bags weren't filled with garbage.
+
+</section>

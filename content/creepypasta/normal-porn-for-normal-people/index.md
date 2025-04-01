@@ -1,6 +1,5 @@
 ---
-date: 2025-01-12T11:29:29-07:00
-lastmod: 2012-03-04T11:29:29-07:00
+date: 2012-03-04T11:29:29-07:00
 draft: false
 title: Normal Porn for Normal People
 tags:
@@ -11,6 +10,8 @@ authors:
 links:
     - "[Normal Porn for Normal People - Creepypasta Wiki (*The story has since been censored on the fandom Wiki and is the main reason for this site's existence.*)](https://creepypasta.fandom.com/wiki/Normal_Porn_for_Normal_People)"
 ---
+
+<section>
 
 Everybody knows that if you surf the web long enough, you’ll see some pretty sick
 shit. This is especially true if you intentionally dwell into the dark underbelly
@@ -208,27 +209,4 @@ onto a few gore sites.
 Wherever you upload them to, all of the videos from normalpornfornormalpeople.com
 get deleted after a while.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</section>

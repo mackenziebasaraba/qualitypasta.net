@@ -8,12 +8,14 @@ links:
 type: longpasta
 layout:
 build:
-    list: 
-    publishResources: 
+    list:
+    publishResources:
     render:
 weight: 06
 draft: false
 ---
+
+<section>
 
 I did some research on art and animation styles, and learned that this technique was known as "hyperrealism", a style intended to give intense lifelike detail using traditional (non-digital) art methods. Some pieces of this genre were almost indistinguishable from photographs. The "Lion" wasn't quite that realistic—you could still tell easily enough that it was a cartoon, yet it was somehow as visually striking as a real photo of a lion.
 
@@ -54,3 +56,5 @@ Annoyingly, the door did not appear to have a mechanism for staying open, and wa
 The compartment was about three feet deep, and contained what looked like diagrams for animation or film devices, along with various little parts; knobs, bolts, lenses, and the like; all scattered at the bottom. I studied these with fascination, but couldn't make heads or tails of the schematics. I tried fitting some of the parts together, with no success.
 
 I decided against taking these items with me. I had rationalized that violating the law by entering this place unlawfully was worth pulling back the curtain on whatever had caused my childhood trauma, but these items were unlikely to be of value to that end and thus stealing them for my own curiosity would go beyond the bounds of that justification. However, I did photograph each one of them just in case.
+
+</section>

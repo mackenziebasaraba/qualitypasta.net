@@ -8,12 +8,14 @@ thumbnail:
 links:
     - "[Balloons : nosleep](http://www.reddit.com/r/nosleep/comments/kcl8q/balloons/)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 weight: 02
 ---
+
+<section>
 
 A couple days ago I posted a story called "[Footsteps](../footsteps)" here on /nosleep. There were a number of questions that made me curious about certain details about my childhood and so I spoke with my mother. Exacerbated by my questions she said "why don't you just tell them about the goddamn balloons if they're so interested." As soon as she said that, I remembered so much about my childhood that I had forgotten. This story will provide some greater context for the previous story, which I think you should read first. Though the order isn't of vital importance, reading that story first will put you in my place more effectively since I remembered the events of Footsteps first. If you have questions or anything, feel free to ask and I'll try to answer them. Also, both stories are long, so heads up on that. I'm just hesitant to leave out any details that might be important.
 
@@ -98,3 +100,5 @@ I started yelling for my mom who was still screaming into the phone. I repeatedl
 "But why? I'm sorry. I didn't mean to do anything..."
 
 She answered me with a response that I never understood until I was forced to revisit these events from the earliest years of my life. She grabbed the envelope off the table and the picture of Josh and I spun and slid, landing next to the other Polaroids in front of me. She held the envelope up to my eyes but I could only look at her and watch as all the color began draining out of her face. With tears welling up in her eyes she said that she had to call the police because there was no postmark.
+
+</section>

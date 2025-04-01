@@ -12,14 +12,15 @@ authors:
     - InfernalNightmare333
 links:
     - https://creepypasta.fandom.com/wiki/The_Devil_Game
-license:
-    - "[CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/legalcode)"
+license: "[CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/legalcode)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 > Pray, for devils have no reason<br>
 > Satan waits to curse your ways<br>
@@ -169,3 +170,5 @@ Oh, excuse me just a moment, I think I hear someone calling for me...
 *What? You want out that badly ALREADY? Must be one Hell of an imagination you've got on you.*
 
 Perfect.
+
+</section>

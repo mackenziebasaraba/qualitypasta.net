@@ -15,6 +15,8 @@ build:
 draft: false
 ---
 
+<section>
+
 ![White Eye](White_Eye.png)
 
 The stairs felt like they would never end. I pressed onward though, passing by one of the mounted candles ever so often. In between them, I was left in utter darkness, at the whim of my own footing. I took my time walking down them, adding to the anxiety to reach the bottom.
@@ -350,3 +352,5 @@ Finally, I saw the last of them completely enter my younger self. My one-year ol
 Lanius’ own tearing through time and space and had backfired. In its own attempt to fulfil its ambition, it ended up creating its own demise. It couldn't stop the human spirit; it was powerless to love. My mother's interference was like what the reverend had said verbatim: inevitable. I smiled to myself, squeezing back on the trigger. The bullet pierced through the child's skull, instantly dropping him. Now dead, I could feel the control of my body return. It was as if a heavy aura of weight lifted from me.
 
 Sighing deeply, I dropped the gun to the ground. Slowly, I removed the mask from my face, looking over at my parents. They were silent with eyes still fixated on their dead child. Finally, my mother turned her gaze to me. I smiled at her, watching her eyes grow wide at seeing my face. With tears forming in my eyes, I could feel a hint of pain growing across my forehead. Something warm began to run down my nose. My eyes looked deep into my mother's as I spoke several words, “I’m sorry… I had to. I… I did you a favor. Forgive me…”
+
+</section>

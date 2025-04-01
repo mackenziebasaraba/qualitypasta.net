@@ -19,6 +19,8 @@ build:
 draft: false
 ---
 
+<section>
+
 {{< details text="Author's Note" >}}
 
 Author's Note: After some thought, and due to the highly sensitive nature of some of the topics in this story, I've decided it's appropriate to add a small disclaimer here. Not because I fear that people will be offended or even take this story seriously and actually hurt someone. Simply because we live in a society that shuns creative minds when they dip into the unsettling side of fiction.
@@ -136,3 +138,5 @@ I leave you with this plea: Do your part to save humanity. It's our only hope, n
 Well, maybe. But here's the juicy part: Recently, I've made a startling new discovery. I was testing the extent of my senses in my drone body, and I found that I was able to wiggle the end of my antennae. Just the end. Just a little. But like an arm you've slept funny on that's gone numb overnight, that little wiggle paves the way for greater motion. And if this thing stays asleep long enough for more of us to become aware, well... we could do a lot of damage, given the right circumstances.
 
 Live as a slave, or die free. We've made that choice as a species time and time again. Why not partake in one last rebellion? One final collective middle finger flipped at the universe that decided we weren't good enough? I'll see you out there, friends. Happy hunting.
+
+</section>

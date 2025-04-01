@@ -8,12 +8,14 @@ thumbnail:
 links:
     - "[Friends : nosleep](http://www.reddit.com/r/nosleep/comments/kyshm/friends/)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 weight: 06
 ---
+
+<section>
 
 On the first day of Kindergarten my mother had elected to drive me to school; we were both nervous and she wanted to be there with me all the way up to the moment I walked into class. It took me a bit longer to get ready in the morning due to my still-mending arm. The cast came up a couple inches past my elbow which meant that I had to cover the entire arm with a specially-designed latex bag when I showered. The bag was built to pull tight around the opening in order to seal out any water that might otherwise destroy the cast. I had gotten really adept at cinching the bag myself; that morning, however, perhaps due to my excitement or nervousness, I hadn't pulled the strap tight enough and halfway through the shower I could feel water pooling inside the bag around my fingers. I jumped out and tore the latex shield away, but could feel that the previously rigid plaster had become soft after absorbing the water.
 
@@ -220,3 +222,5 @@ We were explorers.
 We were adventurers.
 
 *We were friends.*
+
+</section>

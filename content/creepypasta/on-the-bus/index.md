@@ -1,7 +1,6 @@
 ---
 title: On the Bus
-date: 2025-02-13T00:52:40-07:00
-lastmod: 2013-09-17T00:52:40-07:00
+date: 2013-09-17T00:52:40-07:00
 type:
 layout:
 description:
@@ -13,11 +12,13 @@ authors:
 links:
     - "[On the Bus - nightscribe](https://nightscribe.co/s/226/on-the-bus)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 The streets, roads and dusty lanes of Colombia have been fertile territory for myths and legends since before the arrival of the Spaniards. Tales of ‘La Patasola', a one-legged wailing banshee that forever sought her child, and of ‘El Duende', a backwards-footed goblin that led travelers to their doom, nibbled at the corners of journeymen's ease for centuries. Although these stories mainly troubled those living in or passing through rural areas, the growth of cities brought with it a new breed of urban legend rooted in the primal distrust we still harbor, somewhere deep inside, of modern technology. An example of this is the phantom bus that allegedly roams the city's streets at night. Supposedly, young women who board it alone are found mutilated in overgrown outlying fields a few days later, a frozen look of abject terror illustrating the moment of their last, tormented breath.
 
@@ -82,3 +83,5 @@ You try to lift yourself off the seat but your knee buckles under your weight; i
 You are sitting on your seat, facing the front of the bus.
 
 You are sitting on your seat, facing the front of the bus.
+
+</section>

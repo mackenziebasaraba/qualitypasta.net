@@ -13,6 +13,8 @@ links:
 type: longpasta
 ---
 
+<section>
+
 When I was a little kid, the two things I loved most in life were Godzilla, and
 NES games. So naturally when *Godzilla: Monster of Monsters* came out, it was like
 a dream come true. Well, almost. To sum it up, most of the game revolved around
@@ -118,3 +120,5 @@ I took over the enemy base and proceeded not to Jupiter like normal, but instead
 to... "Pathos":
 
 ![Pathos](pathos-1.png)
+
+</section>

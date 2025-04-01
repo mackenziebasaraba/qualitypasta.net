@@ -14,6 +14,8 @@ build:
 draft: false
 ---
 
+<section>
+
 I'm awake now, semi-sober, and ready to finish this for you guys, the internet, and whoever cares to hear it.
 
 I didn't find out that Mr. Mays had passed away until a couple months after the funeral service. Initially, I was going to seek out his family in order to send my condolences, but it wasn't as if Mr. Mays and I were best friends or anything like that; so, I refrained. I continued through my college career and graduated a year or so after our bar meeting.
@@ -149,3 +151,5 @@ I am still as skeptical as I have ever been, but I believe in what happened to m
 Prior to this, there was really no way to find any information on The Showers. The legend didn't extend outside the classroom of Mr. Mays. No one told stories like this to keep children away from a certain place or to scare them; it just wasn't known. I guess that's really the point of this whole story. I want people to know, first hand, what this place is like. Maybe it is a drunk's rationale, or the kid inside me wanting to spread these kinds of stories again. I don't know; I don't care. But, it's out there now, for people to mold and warp to their needs. Most importantly, it's finally out of my head.
 
 It's getting late and I'm getting another drink. Cheers.
+
+</section>

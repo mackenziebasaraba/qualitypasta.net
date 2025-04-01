@@ -1,7 +1,6 @@
 ---
 title: Future Tech
-date: 2025-02-13T14:35:02-07:00
-lastmod: 2024-10-13T14:35:02-07:00
+date: 2024-10-13T14:35:02-07:00
 type:
 layout:
 description:
@@ -15,11 +14,13 @@ authors:
 links:
     - "[Future Tech](https://creepypasta.fandom.com/wiki/Future_Tech)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 I don't know about you, but as you might be able to guess, I've always been a sucker for any suggestion of the supernatural or extraordinary. As a kid I'd pour over Guinness World Record books until they fell apart at the spines, and I'd watch Ghost Adventures like an addict, believing every minute of it. It's really interesting to think about what could possibly exist at the edge of our understanding, even if it means watching hours of Zak Bagans grasping at straws with a blinking music box. It's this fascination that led me to the discovery that I'll be sharing here shortly.
 
@@ -79,7 +80,7 @@ The big break only came about 20 years later when the police released a series o
 
 **AUGUST 28, 1991 12:53 A.M.** PRESLEY: (engine noise, laughter) You know I lied, I lied to you Calvin. There's no studio, no crew, no suits at the office. To tell you the truth I haven't talked to them since the shoot. I haven't talked to anyone! They keep calling and calling and I just don't pick up! (laughter) I guess we're the same like that, huh? (breathing) What did you expect me to do? You don't talk to me, leave me to ROT with my own thoughts, lay back while I sit through this hell that you put me in. And I'm not talking about the guilt or the stress, no-ho! (laughter) You know EXACTLY, what I'm talking about. You knew from the start when you called my goddamn office. Me, Adams, everyone on the set! You did this to us, and for what? What do you get out of this? You're sick, Calvin. You ruined us all, just for whatever perverted satisfaction this gives you. You won't even let us see it again. You spent all this time keeping us from relief you know we need, but not anymore. I'll tell you what, I can't give you what you deserve, but I'll sure as hell try. You're about to see what happens to people like you. (END OF MESSAGE)
 
-*** 
+***
 
 The police arrived at the house a few hours later, finding the scene that was later dubbed as the Carlsbad Bloodbath. The name comes from the rumor that the cramped basement held so much viscera that the floor was completely submerged in a shallow pool of blood, and from the photos I've seen, I'd say it's credible; scattered among the servers and monitors were the remains of every person in the video, all mauled and disfigured like they'd been eaten alive. I knew I shouldn't have looked at the pictures, but I couldn't resist the curiosity, and believe me when I say I regret it. Every photo is burned in my head; twelve innocent people, reduced to a mess of gore at the bottom of a basement.
 
@@ -96,3 +97,5 @@ If you think Calvin got away because he was stuck in the hospital, unfortunately
 As for the computer, it's like it never existed; when Renner's possessions went up for auction, there wasn't so much as a mouse or keyboard on the list. Wherever it all went, there's no public record of it. Then there was that phrase; "I don't know where it came from." I can only assume he was referring to the monitor since, unlike traditional PC setups, it seemed to be the source of everything. Renner's previous accreditations should have offered some clues as to how he got his hands on it, but that's the thing; he had no previous accreditations. All I found was an associates degree in computer science and a short-lived tech support job at Fry's. Our boy genius just came out of the blue, and instead of research institutes or newspapers, he reached out only to talk shows. It seems like his number one priority was to get his "work" on camera. Honestly nothing has fit quite right with this guy from beginning to end.
 
 I wish I had more to share, but there's nothing else I can find. This is where all of you come in; I'm passing all of this information along to see if anyone knows any possible connections. It doesn't matter how tangential it seems, I need to see more. This case has been on my mind for months now, and I refuse to believe the trail ends here. I won't stop looking, but for now, I have to take a break and try to get some sleep. The best I can do beyond that is organize my findings to show to others. Thank you all so much for reading; it's such a relief to finally share this with more people.
+
+</section>

@@ -19,6 +19,8 @@ build:
 draft: false
 ---
 
+<section>
+
 David stumbled to his car in a daze. The last couple of hours were a complete blur. Haunting images would sporadically cross over his mind, slowly reminding him of the hell he was now leaving behind. He felt in his pocket for his phone and dialed 911. There was no way he could explain any of this, but for some reason his first reaction was to call---maybe they could just come here and confirm that it's a normal house, nothing more. They could put his mind at ease and he could go home, live a normal life with---
 
 Then he remembered. The dirt under his feet slipped around him as David tore back to the house.
@@ -62,3 +64,5 @@ The girl slumped to her knees in front of him, with one final hit against his le
 The girl jumped slightly at his words. Slowly she lifted her head to look at David. His heart sank as he saw her face. No eyes. Absolutely no eyes. Blackness. And when she spoke, he could see inside her mouth. No tongue and no teeth, just a void.
 
 “You came to save us...didn't you?"
+
+</section>

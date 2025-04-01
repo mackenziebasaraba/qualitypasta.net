@@ -15,6 +15,8 @@ build:
 draft: false
 ---
 
+<section>
+
 ![Book](Book.jpg)
 
 “What’s wrong, Marcus?" Victoria asked. You look absolutely pale, are you frightened?”
@@ -280,3 +282,5 @@ I opened my mouth to scream, but the figure quickly darted over to me, covering 
 I didn’t want to, but my legs began to move on their own in her direction. When I reached the other side, I saw her remove the hood from her head. The moonlight lit her face. She was an elderly looking woman possibly in her early fifties. She had ragged black hair mixed with gray strands that ran untamed. Her face was pressed with wrinkles with dry patches of dirt. The scent from her was rank, but familiar; it smelled like wet leaves and old tree bark?
 
 “Did you see it?” she whispered, her voice was crackly and rasp. “You saw it in the book, right? You have to help me. You have to help me save my daughter.”
+
+</section>

@@ -13,11 +13,13 @@ license:
 type:
 layout:
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 About five years ago, I lived downtown in a major city in the US. I've always been a night person, so I would often find myself bored after my roommate, who was decidedly not a night person, went to sleep. To pass the time, I used to go for long walks and spend the time thinking.
 
@@ -52,3 +54,5 @@ I ran too.
 I ran until I was off of the side-road and back onto a better lit road with sparse traffic. Looking behind me then, he was nowhere to be found. The rest of the way home, I kept glancing over my shoulder, always expecting to see his stupid smile, but he was never there.
 
 I lived in that city for six months after that night, and I never went out for another walk. There was something about his face that always haunted me. He didn't look drunk, he didn't look high. He looked completely and utterly insane. And that's a very, very scary thing to see.
+
+</section>

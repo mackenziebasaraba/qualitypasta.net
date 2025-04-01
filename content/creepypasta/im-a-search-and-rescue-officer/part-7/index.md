@@ -8,6 +8,8 @@ links:
 weight: 07
 ---
 
+<section>
+
 One of the topics that I get asked about a lot, here and in real life, involved things like The Rake, the Wendigo, and other related legends. I can't honestly say that I know a lot about any of them, but based on some light reading I did, I can say that I've heard stories that seem to be loosely related to them. You've heard the old adage that legends like that come from somewhere, and I'm sure that's true, but as you all know, I do try to take things with a grain of salt. You have to, out here. It's sort of like working in a hospital, I'd imagine. You could spend all day thinking about how many people have died there, and how there are probably ghosts, or whatever you want to call them, all over the place, but it doesn't do you any good. It just makes it harder to do your job. I think a lot of us feel that way, and that's why we try to just go about our work like everything is fine. Once you get paranoid, there's not really any going back, and a lot of cadets quit because of it. My park especially seems to have a high turn-over rate because the cadets graduate and get so freaked out about everything, and they can't seem to let it go. You have to learn to internalize things and shut off.
 
 I've talked to K.D a bit about her experience, because I wanted to know what she thought about the Wendigo. She didn't really have anything in particular to say about it, aside from that she didn't want to think about it that much. She did tell me that a friend of hers has had something similar happen.
@@ -71,3 +73,5 @@ We all knew.
 "Well first of all, he talked about the stairs. He said he'd been watching his dad build a fire and the stairs 'came up to him', and he had to go up them or something bad would happen. The cops couldn’t really understand what he was talking about after that, because he just kept saying 'like the campfire' over and over. And he kept mentioning sounds, but he couldn't say what sounds, just that it was loud and he covered his ears so he couldn't hear them. But the thing I remember most is that they asked him where exactly he'd gone, and he just said he was right there. He kept pointing at himself, and they said they thought that meant that he thought he'd never left. He said he wasn't scared because the stairs were there, and he said they talked to him, but not like people talk. Like I said, it was really convoluted and hard to understand, and I have a feeling the cops didn't take most of it down. They ended up just saying that the kid had some kind of amnesia or fugue, and that they didn't think foul play was involved. Doesn't really explain why he came back a week later perfectly fine without a speck of dirt on him and well fed, but hey, what the cops say goes."
 
 There are still a lot of questions I want to answer. I'll continue to ask around and find out whatever I can. The next update should be soon; thanks for being so patient.
+
+</section>

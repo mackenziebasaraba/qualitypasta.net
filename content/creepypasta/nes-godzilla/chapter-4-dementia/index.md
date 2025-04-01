@@ -15,6 +15,8 @@ build:
 draft: false
 ---
 
+<section>
+
 When I got back to the game, I was getting very upset and confused.
 
 I thought about the way the monster looked at me. The game COULDN'T have heard
@@ -477,3 +479,4 @@ successful escape. Now I was headed to the fifth world: Entropy.
 
 !["ENTROPY"](entropy.png)
 
+</section>

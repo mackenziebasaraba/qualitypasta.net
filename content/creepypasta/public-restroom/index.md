@@ -1,7 +1,6 @@
 ---
 title: Public Restroom
-date: 2025-02-13T00:50:04-07:00
-lastmod: 2015-06-30T00:50:04-07:00
+date: 2015-06-30T00:50:04-07:00
 type:
 layout:
 description:
@@ -14,11 +13,13 @@ authors:
 links:
     - "[Public Restrooms - nightscribe](https://nightscribe.co/s/4413/public-restrooms)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 It was late, right around 8:00 P.M. For November this meant that the shadows of the night were already engulfing the world. It wasn't cold out though. The wind was gentle and carried with it the smells of foliage thanks to the various gardens that littered the campus grounds.
 
@@ -98,7 +99,7 @@ A wave of relief washed over me in time for a shuffling sound to my right to cat
 
 It took me a moment to register this. There was someone in the handicapped stall. When did they get here?
 
-Oh who cared? There was someone else there with me! And although I had no idea who this other person was, in the wake of that...Thing...I felt at ease knowing I wasn't alone anymore.  
+Oh who cared? There was someone else there with me! And although I had no idea who this other person was, in the wake of that...Thing...I felt at ease knowing I wasn't alone anymore.
 As usual my sense of relief was short lived once I noticed the gasping sound coming from inside my stall.
 
 I froze for what seemed like an eternity before I managed to glance up.
@@ -132,3 +133,5 @@ The next day I arrived on campus only to find it locked down and swarming with c
 Apparently there had been a series of murders in the city. A man had been spotted on some of the sites leaving the women's restrooms where the girls were found. He would apparently wait in the handicapped stalls until the girls headed for the sink to wash their hands, then he would come out from behind them and slit their throats.
 
 Whatever that thing was in the bathroom, it had saved me.
+
+</section>

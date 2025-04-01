@@ -15,6 +15,8 @@ build:
 draft: false
 ---
 
+<section>
+
 In the brief instant before the transition between Entropy and Extus, I was
 hoping that I would get Godzilla and Angurius back. As the board appeared, I saw
 that my wish was half granted: I had Godzilla back, but no Anguirus. I would have
@@ -483,3 +485,4 @@ And nothing could have prepared me for the horrors of the final world---Zenith.
 
 ![ZENITH](Zenith.png)
 
+</section>

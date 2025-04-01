@@ -22,6 +22,8 @@ build:
 draft: false
 ---
 
+<section>
+
 It was a desolate stretch of road across the wide, open expanse of empty desert. The most remarkable thing about this part of the highway was a single gnarled tree stripped bare of its leaves, branches reaching up like bony fingers into the clear night sky on the side of the road.
 
 I flicked the ash off my cigarette out of the car window, the embers danced like miniature stars in the dark before winking out of existence behind us. Soft classical music poured from the car’s speakers and I took another drag from my cigarette. It was about 4 A.M. and we were determined to get to Arroyo Hondo by dinner time.
@@ -225,3 +227,5 @@ The old man sighed. “You say you got run off the road by a van after picking u
 The old man nodded. “Yeah, may as well. That way I can tell you the bill then and there.” We climbed into his tow truck and he drove us back out to the wreck, where he pulled the car from the ditch. It wasn’t too badly damaged, but it would need some repair. The man said it was going to be a couple hundred dollars at most. As he was hooking up the car, I stopped him.
 
 “I want to check something,” I said as I headed to the backdoor. I opened the door Mikey entered and looked inside. It was just as I thought, there was no yellow raincoat thrown over the seat.
+
+</section>

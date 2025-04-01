@@ -13,11 +13,13 @@ authors:
 links:
     - "[Teeth.jpg](https://creepypasta.fandom.com/wiki/Teeth.jpg)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 I'd never been too fond of anyone at my local school. They were all a little rude and boring for me. You see, I grew up in a small area with not many people interested in art like I am, so I had to venture off from home. I found myself attending a pretty rural art college. It's sorta like a normal university, except it's full of big-headed people.
 
@@ -208,3 +210,5 @@ I could feel the presence of someone else entering the room...but I already knew
 ...But that wasn't what made me collapse. I knew well enough that my fate was sealed. After he finished speaking, though, I heard one more tiny sound that made my heart ache and my tears stream further down my numb cheeks, before my vision faded away and my hands slipped from the table.
 
 I could hear Lilly choking.
+
+</section>

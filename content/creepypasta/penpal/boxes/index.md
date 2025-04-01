@@ -8,12 +8,14 @@ thumbnail:
 links:
     - "[Boxes : nosleep](http://www.reddit.com/r/nosleep/comments/kg0jf/boxes/)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 weight: 03
 ---
+
+<section>
 
 *If you haven't read "[Footsteps](../footsteps)" or "[Balloons](../balloons)", please do so before reading what's below so you'll understand.*
 
@@ -250,3 +252,5 @@ I got home from Josh's that day. I threw my stuff on the floor and it scattered 
 His cries were coming from my walkie-talkie.
 
 Boxes never came home.
+
+</section>

@@ -12,6 +12,8 @@ links:
     - "[I'm a Search and Rescue Officer for the US Forest Service, I have some stories to tell](https://www.reddit.com/r/nosleep/comments/3iex1h/im_a_search_and_rescue_officer_for_the_us_forest/)"
 ---
 
+<section>
+
 I wasn't sure where else to post these stories, so I figured I'd share them here. I've been an SAR officer for a few years now, and along the way, I've seen some things that I think you guys will be interested in.
 
 I have a pretty good track record for finding missing people. Most of the time they just wander off the path, or slip down a small cliff and can't find their way back. The majority of them have heard the old 'stay where you are' thing, and they don't wander far. But I've had two cases where that didn't happen. Both bother me a lot, and I use them as motivation to search even harder on the missing persons cases I get called on.
@@ -36,3 +38,4 @@ On just about every case where we're really far into the wilderness (I'm talking
 
 I have a lot more stories, and I suppose if anyone's interested, I'll tell some of them tomorrow. If anyone has any theories about the stairs, or if you've seen them too, let me know.
 
+</section>

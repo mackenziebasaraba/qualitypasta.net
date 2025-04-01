@@ -8,6 +8,8 @@ links:
 weight: 08
 ---
 
+<section>
+
 This will be my final update for now.
 
 Things have deteriorated here to a degree that I didn't foresee. I didn’t know how much writing about the things that are happening out here would affect every single part of my life, and maybe that was stupid of me. Maybe I should have considered it more seriously, but honestly I just thought I was writing about things that a few people would want to hear. I didn't think it would get this much attention.
@@ -31,3 +33,5 @@ If you go out into the woods, I encourage you to be safe. Bring water, food, sur
 And above all:
 
 Don't touch them. Don't look at them. Don't go up them.
+
+</section>

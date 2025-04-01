@@ -1,7 +1,6 @@
 ---
 title: Annora Petrova
-date: 2025-02-13T00:31:31-07:00
-lastmod: 2014-07-05T00:31:31-07:00
+date: 2014-07-05T00:31:31-07:00
 type:
 layout:
 description:
@@ -11,16 +10,15 @@ tags:
 authors:
     - OnePageWonder
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
 
-![annora.jpg](annora.jpg)
+<section>
 
-**To: Breeiceq@---------.com**
-
+**To: Breeiceq@---------.com**<br>
 **Subject: BREE PLEASE READ THIS**
 
 BREE, DON'T DELETE THIS!
@@ -80,3 +78,8 @@ I'm sobbing so hard, I can barely type this. But I wanted you to know the truth.
 I don't know what to do. I don't know anyone here and nobody speaks English. I keep refreshing the page.
 
 God, it's been forever, I keep refreshing but it still hasn't changed, I'm waiting for midnight. I don't know what to do, so I locked myself in my room. There's only a few minutes to midnight now. All I can do is refresh the page. I'm exhausted, but I can't stop. I'm afraid to leave the computer until I know what happens next.
+
+![annora.jpg](annora.jpg)
+{ class="full-width" }
+
+</section>

@@ -19,6 +19,8 @@ build:
 draft: false
 ---
 
+<section>
+
 It had been three weeks since I heard any word from David. In the six months since we started dating we had only gone three days without talking, and that was after a pretty intense fight. There was nothing out of the ordinary when I had talked to him last, he had just mentioned that he was going to check something out a friend told him about. But then I got a really weird text the night before. It was from David, but it wasn't from his number. It only had five words in it:
 
 "no end dont come david"
@@ -254,3 +256,5 @@ They were on the other side of the door. I could feel it. And David was too. The
 
 </div>
 </div>
+
+</section>

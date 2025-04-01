@@ -1,7 +1,6 @@
 ---
 title: I Found a Digital Camera in the Woods
-date: 2025-02-13T11:02:11-07:00
-lastmod: 2011-06-12T11:02:11-07:00
+date: 2011-06-12T11:02:11-07:00
 type:
 layout:
 description:
@@ -12,11 +11,13 @@ tags:
 authors:
     - SidOreos
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 Last week, I drove to a nearby town. The place was surrounded by tall hills and mountains. You could have a very pleasant hike down any of the numerous trails there.
 
@@ -57,3 +58,5 @@ Anyway, just wanted to share the pictures it contained.
 ![Pshot31.jpg](Pshot31.jpg)
 ![Pshot32.jpg](Pshot32.jpg)
 ![Pshot33.jpg](Pshot33.jpg)
+
+</section>

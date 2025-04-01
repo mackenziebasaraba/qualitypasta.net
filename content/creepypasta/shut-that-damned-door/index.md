@@ -1,7 +1,6 @@
 ---
 title: Shut That Damned Door
-date: 2025-02-13T14:30:16-07:00
-lastmod: 2015-01-12T14:30:16-07:00
+date: 2015-01-12T14:30:16-07:00
 type:
 layout:
 description:
@@ -14,11 +13,13 @@ authors:
 links:
     - "[Shut That Damned Door](https://creepypasta.fandom.com/wiki/Shut_That_Damned_Door)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 My parents died in a car crash when I was fourteen.
 
@@ -115,3 +116,5 @@ Aunt Louise had not had the courage, so she had fled, and kept every door in her
 I didn't have the courage, either. I turned and fled, and never looked back. When I was sixteen, I moved out of Aunt Louise's and into a halfway house. Once I was eighteen, I got a job upstate and moved there. I never went back to Aunt Louise's and never called her, tried hard to not even think about her.
 
 But I haven't been successful. I still think back to the day I stood at that doorway, about the squelching, wriggling things that waited in the dark. And I wonder if Aunt Louise ever found the strength to cross the room and shut that damned door.
+
+</section>

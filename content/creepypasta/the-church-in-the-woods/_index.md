@@ -23,6 +23,8 @@ build:
 draft: false
 ---
 
+<section>
+
 ![Cloaked figure](Cloaked_figure.png)
 
 I had a weird dream last night. It wasn’t like your normal everyday dream. It was very disturbing to me. I wouldn’t consider it a nightmare, but I know I will never forget it. It still brings a shiver just thinking about it.
@@ -104,3 +106,5 @@ I ascended the stairs and made my way to the kitchen where I was greeted happily
 As time went on, the images began acting more like a dream: I said I would never forget it and yet, like the typical one, it slowly was slipping away from me.
 
 I was ready to head back. Before I could turn my car on, my phone went off. On the other end was my boss. He asked me how I was doing and if I was willing to do an extended onsite service for a client, possibly for a week or two depending on the number of computers. The project involved establishing networks and accounts, and mentioned that the client would provide room and meals. Seeing nothing wrong with getting out of the office for a while, I agreed and asked who the client was. He told me this would be a service provided for an independent church.
+
+</section>

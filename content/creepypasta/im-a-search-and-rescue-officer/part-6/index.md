@@ -8,6 +8,8 @@ links:
 weight: 06
 ---
 
+<section>
+
 It's been way too long since I posted an update, and I'm sorry about that. There's also been some confusion about the new formatting requirements on the board, which I've cleared up. So these next few stories are going to be posted a little differently! They'll be in chronological order, and I'll do my best to tie them into each other as much as I can so it doesn't skip around too much.
 
 When I started out as a rookie, no one had told me a lot about the job in terms of weird things that could happen. I'm assuming this was largely to prevent me from freaking out and abandoning the park. But a few months into my service, when I was still a rookie, a friend and I were drunk at a party, and he opened up a bit:
@@ -49,3 +51,5 @@ As you all know, I went to a training seminar recently, and heard some amazing a
 I think we can agree that there's stuff going on out here in the woods, and while I'm not going to spout off about what it could be, or offer any theories, what I want people to take away from all of this is that it is so damn important to be safe when you're out there. I know a lot of you think you're invincible, but the fact is that you CAN die out there, or be hurt, or go missing. It's easier than you'd ever imagine.
 
 I apologize for this relatively short update, guys; I will do my absolute best to continue this series as soon as possible. Thanks for all your continuing support, it means the world to me!
+
+</section>

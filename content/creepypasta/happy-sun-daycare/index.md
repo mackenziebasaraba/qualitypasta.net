@@ -8,17 +8,19 @@ thumbnail:
 tags:
     - Animals
     - Disapperances
-authors: 
+authors:
     - Chelsea.adams.524
 link:
     - "[Happy Sun Daycare](https://creepypasta.fandom.com/wiki/Happy_Sun_Daycare)"
 license: "[CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0)"
 build:
-    list: 
-    publishResources: 
-    render: 
+    list:
+    publishResources:
+    render:
 draft: false
 ---
+
+<section>
 
 ![Ingen Lek](ingen-lek.jpg)
 
@@ -177,3 +179,5 @@ There was one other distinct set of footprints that caught my attention. I exami
 I had to let people know what they had been hiding for all those years. However, as I made my way out the daycare and to my car, there was one aspect about those footprints that made me uneasy.
 
 Since when do dogs walk on two legs?
+
+</section>

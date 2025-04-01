@@ -8,12 +8,14 @@ links:
 type: longpasta
 layout:
 build:
-    list: 
-    publishResources: 
+    list:
+    publishResources:
     render:
 weight: 02
 draft: false
 ---
+
+<section>
 
 I let it go after a while. A few years passed, and in college I learned about this internet urban legend called "lost episodes." People claimed to have seen episodes of TV shows or altered versions of movies, usually animated, that contained graphic and disturbing content. The episode or movie was often found in unexpected places, and those claiming to have seen it often said it mysteriously disappeared, whether through a VHS tape appearing to have somehow self-erased, a website going dead immediately after viewing, etc.
 
@@ -68,3 +70,5 @@ He responded that he had heard of it, but it wasn't really something the site de
 I messaged this admin, and got a response within the hour. He told me the Lost Media Group was the group alleged by some to be behind the "lost episodes" phenomenon. According to him they produced not just altered versions of movies and television episodes, but were also said to make their own versions of other media such as video games and comic books. He said he did not know much else about them other than that some lost media collectors were willing to pay large sums for an authentic work by this group, and that before the Lost Media Society had banned discussion of the lost episodes legend some of these collectors had asked about them on the site.
 
 I asked if he could refer me to such a collector. He said my best bet would be a certain retired site admin who was no longer active in the Lost Media Society. He linked me a couple of archived threads by this individual asking about lost episodes, and gave me the man's email address. I shot him an email asking about his interest in lost episodes, and even went as far as to directly ask if he knew about a "lost episode" type version of *The Aristocats*.
+
+</section>

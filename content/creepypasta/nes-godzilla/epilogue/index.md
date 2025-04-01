@@ -15,6 +15,8 @@ build:
 draft: false
 ---
 
+<section>
+
 I am Zachary, and at the time I write this, it has been three weeks since the
 fateful night when I played the NES Godzilla game.
 
@@ -105,3 +107,5 @@ bids on this game knows what they're getting into. I can't guarantee the safety
 of anyone else who plays the game, or that anything will happen at all. But to
 the new owner of the gamer, remember this; Be careful, and if you feel as if the
 game is literally messing with your mind, SHUT THE DAMN THING OFF.
+
+</section>

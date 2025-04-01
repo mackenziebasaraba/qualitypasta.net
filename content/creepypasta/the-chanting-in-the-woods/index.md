@@ -1,24 +1,25 @@
 ---
 title: The Chanting in the Woods
-date: 2025-02-13T14:04:23-07:00
-lastmod: 2013-10-10T14:04:23-07:00
+date: 2013-10-10T14:04:23-07:00
 type:
 layout:
 description:
 thumbnail:
 tags:
     - Cults
-    - Ritual 
+    - Ritual
 authors:
     - Sargumphigaus
 links:
     - "[The Chanting in the Woods](https://creepypasta.fandom.com/wiki/The_Chanting_in_the_Woods)"
 build:
-    list: 
-    publishResources: 
-    render: 
-draft: true
+    list:
+    publishResources:
+    render:
+draft: false
 ---
+
+<section>
 
 I don't sleep with my window open anymore. No matter how hot outside it gets, that bastard stays closed. It's been this way for a long time. Since I was very young. It's not a real hit with the ladies during summertime. People usually recommend air conditioners, and I usually go with the prospect when I have company. But when it's in, I don't sleep well at all because I can only imagine how easy it would be for anyone to bypass them.
 
@@ -193,3 +194,5 @@ When I became old enough, I severed all ties with my parents and I moved out of 
 I would like to believe that these men were cultists, that they were attempting to appease some unseen, unnamed god. A god that absolutely should not have existed, a god that had no right to walk among man. And that during their attempt to appease it, I had botched their ritual by breaking an important piece of the process: The doll, and in their attempt to salvage it, they forced me into offering myself up as a sacrifice to it. But its failure to do whatever it was going to do to me that night destroyed the whole operation. I would prefer to believe that in the name of vengeance this angry thing turned on its own worshipers. Killing them all and dragging them all back to where ever it came from. It's the only thing that makes sense to me.
 
 There is just one thing I still couldn't figure out. Why is it, that no matter where I go, when I'm all alone, in quiet places, in the dead of night, why can I still hear them chanting that unholy sermon that I heard so long ago in the woods when I was nine?
+
+</section>

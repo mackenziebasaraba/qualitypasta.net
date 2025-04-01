@@ -1,6 +1,5 @@
 ---
-date: '2025-02-09T02:43:09-07:00'
-lastmod: '2011-08-06T02:43:09-07:00'
+date: '2011-08-06T02:43:09-07:00'
 draft: false
 title: 'Pale Luna'
 tags:
@@ -11,6 +10,8 @@ authors:
 links:
     - "[Pale Luna - The Something Awful Forums](https://forums.somethingawful.com/showthread.php?threadid=3343771&pagenumber=55&perpage=40#post386824172)"
 ---
+
+<section>
 
 In the last decade and a half, it's become infinitely easier to obtain exactly what you're looking for by way of a couple of keystrokes. The Internet has made it all too simple to use a computer to change reality. An abundance of information is merely a search engine away, to the point where it's hard to imagine life as any different.
 
@@ -97,3 +98,5 @@ Efforts were made to track down the programmer of Pale Luna, but the nearly-anon
 Collectors have been known to offer upwards of six figures for an authentic copy of the game.
 
 The rest of Karen's body was never found.
+
+</section>

@@ -18,6 +18,8 @@ build:
 draft: false
 ---
 
+<section>
+
 Every area in all parts of the world has those area-specific urban legends that just refuse to die. Whether the stories are about a haunted asylum on the outskirts of the city, a creature that lives in the nearby woods, or a ghost that haunts a lonely stretch of road outside of town, there is always a common thread within the tales; no one has ever been to these places, seen the creatures, or witnessed any hauntings with their own eyes.
 
 There are members of every generation who will proclaim that they "know someone whose brother's best friend's sister went to that haunted house with thirteen floors that used real blood and snakes and spiders and is so scary that no one has ever made it all the way through." Those same people will swear by these stories without ever being able to provide a shred of evidence or a name of someone who could provide proof of the claims simply because "everyone around here knows that it's a true story". The storytellers eventually pass the tales onto their children, who modify them just enough to keep up with changing times, and the cycle continues.
@@ -164,3 +166,4 @@ That was the last time I would see him. I'd never be able to tell him the impact
 
 I experienced that place too, several years later. That is where my story turns. The following is the story of how I came to find "The Showers," and why I will never, ever go anywhere near Nebraska ever again. I'll finish this story when I'm sober. The memory is clear enough.
 
+</section>

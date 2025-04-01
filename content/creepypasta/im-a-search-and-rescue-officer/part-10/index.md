@@ -8,6 +8,8 @@ links:
 weight: 10
 ---
 
+<section>
+
 I'm on call twenty-four hours a day now. It's not the greatest thing in the world but it pays the bills, and sometimes they let me leave early or take extra days off if I'm tired. There's not that much going on at night of course but occasionally one of us has to run out and deal with something. An animal sighting, a missing person, drunk people shooting each other, that sort of thing. All in all, I get called out about a dozen times a month for some kind of night-time emergency. Generally, the calls go something like this:
 
 A text and a phone call from my boss. Fifteen minutes to get out the door dressed in my uniform. Thirty to work, then anywhere from five minutes to eight hours dealing with the issue. If it's a missing person or the cops are involved, up to two days without sleep. The worst was a murder-suicide. That took a week. By the end of it I was in the hospital with severe fatigue and dehydration.
@@ -87,3 +89,5 @@ Down at the other end I could see the clean slice, where the tail had been taken
 We'll leave it to rot. We'll say a water spout sucked up fish from one of the lakes and dumped them out there. When the bones are the only thing left, we'll dispose of them, and the trail will re-open.
 
 I drove back home and went to bed.
+
+</section>
