@@ -5,7 +5,7 @@
 }
 
 @mixin normal-text {
-  font-size: #{fluid(16px, 19px)};
+  font-size: #{px-to-rem(16px)};
 }
 
 @mixin small-text {

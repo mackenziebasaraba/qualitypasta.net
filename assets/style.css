@@ -98,7 +98,7 @@ h3 {
 
 p, blockquote, del, dfn, q, dl, dt, dd, ol, ul, li, label, legend, table,
 caption, tbody, tfoot, thead, tr, th, td {
-  font-size: clamp(1rem, 0.75vw + 0.85rem, 1.19rem);
+  font-size: 1rem;
 }
 
 strong, dt {
