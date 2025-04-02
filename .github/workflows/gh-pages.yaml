@@ -36,8 +36,8 @@ jobs:
       # Install Sass
       - name: Install Dart Sass
         run: |
-          wget https://github.com/sass/dart-sass/releases/download/1.56.1/sass-1.56.1-linux-x64.tar.gz
-          tar -xvzf sass-1.56.1-linux-x64.tar.gz
+          wget https://github.com/sass/dart-sass/releases/download/1.86.1/dart-sass-1.86.1-linux-x64.tar.gz
+          tar -xvzf dart-sass-1.86.1-linux-x64.tar.gz
           sudo mv sass /usr/local/bin/sass
           sass --version
 
