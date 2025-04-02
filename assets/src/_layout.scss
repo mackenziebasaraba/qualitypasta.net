@@ -16,11 +16,6 @@
     padding-bottom: 1rem;
   }
 
-  blockquote > p {
-    width: 55%;
-    margin-right: 40px;
-  }
-
   h1 {
     width: 75%;
     padding-top: 5rem;
@@ -37,7 +32,8 @@
 
   section > dl,
   section > ol,
-  section > ul {
+  section > ul,
+  section > blockquote {
     width: 50%;
     -webkit-padding-start: 5%;
     padding-inline-start: 5%;
@@ -165,7 +161,8 @@
 
     section > dd,
     section > ol,
-    section > ul {
+    section > ul,
+    section > blockquote {
       width: 90%;
     }
 
@@ -177,11 +174,6 @@
     figure.fullwidth figcaption {
       margin-right: 0%;
       max-width: none;
-    }
-
-    blockquote {
-      margin-left: 1.5em;
-      margin-right: 0em;
     }
 
     blockquote p,
