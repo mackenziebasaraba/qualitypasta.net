@@ -1,23 +1,21 @@
-
-
 @media (prefers-color-scheme: light) {
   :root {
-    --background: #F8F8FF;
-    --body-text: #1a1a1a;
-    --header-text: #292b2f;
-    --disclaimerColour: #8a8d91;
+    --background: #f8f5f5;
+    --body-text: #1e0a0a;
+    --header-text: #1e0a0a;
+    --disclaimerColour: #7A6F6F;
     --green: #ACAF50;
-    --hyperlink: #b22222;
+    --hyperlink: #9A1F1F;
   }
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #181818;
-    --body-text: #e1e1e1;
-    --header-text: #F8F8FF;
-    --disclaimerColour: #a6a6a6;
+    --background: #0D0B0B;
+    --body-text: #f5e2e2;
+    --header-text: #f5e2e2;
+    --disclaimerColour: #B8A99A;
     --green: #4CAF50;
-    --hyperlink: #e94e77;
+    --hyperlink: #7e2323;
   }
 }
