@@ -231,10 +231,7 @@ That's when Mickey, that photo negative, opposite-Mickey in the middle of the fl
 
 First sitting up, then climbing to its feet, the Mickey Mouse costume… or whoever was inside of it, stood there at the center of the room, its fake face just starting directly at me as I mumbled "No…" over and over and over…
 
-{{<figure
-div="float-right" >}}
 ![Reverse Mickey](Reverse-mickey.gif)
-{{</figure>}}
 
 With shaking hands, a violently thrashing heart, and legs that had once again turned to jelly, I managed to lift the camera and aim it at the opposite creature now quietly sizing me up, head tilted.
 
