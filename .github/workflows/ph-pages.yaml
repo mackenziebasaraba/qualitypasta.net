@@ -1,31 +1,45 @@
-name: github pages
+name: Build and Deploy Hugo Site with Sass
 
 on:
   push:
     branches:
-      - main  # Set a branch that will trigger a deployment
+      - main
   pull_request:
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-22.04
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Setup Hugo
+    steps:
+      # Checkout the code
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Set up Hugo
+      - name: Set up Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: |
+          npm install -g sass
+
+      - name: Compile Sass
+        run: |
+          sass assets/style.scss assets/style.css --style compressed  # Update path as needed
+
+      - name: Build the Hugo site
         run: hugo --minify
 
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
         with:
-          github_token: ${{ secrets.GH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
