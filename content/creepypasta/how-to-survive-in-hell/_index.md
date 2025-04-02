@@ -44,7 +44,7 @@ Do as I tell you and you'll have a better chance than most of avoiding my own na
 
 <section>
 
-## Welcome to Hell
+### Welcome to Hell
 
 Some people swear they saw a light at the end of the tunnel when they died. To my mind, those people either hallucinated or they're lying. Most of us just wake up in a birthing sac a few minutes after death. The buildings of Hell are covered in the things, horrible, yellow-brown pimples growing out of the brick.
 
@@ -64,7 +64,7 @@ So, we've killed our first man and found a home. Things are going well. Get that
 
 <section>
 
-## The Damned
+### The Damned
 
 The people of Hell can be grouped into two categories. The first, the fresh meat, are those who've just climbed out of a birthing sac. It's kill or be killed when it comes to fresh meat, always has been. The newly birthed want clothing and tools and will kill to get hold of them. The second category, the residents, view fresh meat as a quick and easy supply of food, leather and bone.
 
@@ -84,7 +84,7 @@ Human flesh and boiled rainwater doesn't exactly make for a balanced diet and so
 
 <section>
 
-## The City and the Wasteland
+### The City and the Wasteland
 
 Most of the damned live in Dis, the city of Hell. That's where all the fresh meat is born and considering the size of the place coupled with the short life expectancy, a lot of people will spend eternity without ever setting foot outside of Dis.
 
@@ -108,7 +108,7 @@ I stepped back into the city and my body finally fell apart. When I emerged from
 
 <section>
 
-## Escaping from Hell
+### Escaping from Hell
 
 There are ways to leave Hell. That should be obvious, otherwise I wouldn't be talking to you would I?
 

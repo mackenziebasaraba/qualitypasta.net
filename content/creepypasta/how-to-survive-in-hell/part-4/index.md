@@ -29,7 +29,7 @@ This new body seems a little more durable than the last one. Now that I'm back, 
 
 <section>
 
-## Phlegethon Swamp
+### Phlegethon Swamp
 
 It rains in Hell. It rains all the fucking time and that water has to go somewhere. Most of it drains out into Gehenna where it sinks into the otherworldly ash and apparently disappears. The rest flows either into the sewers beneath the city or it collects in Phlegethon Swamp.
 
@@ -47,7 +47,7 @@ Wildfires move fast. I guarantee you that you won't outrun one.
 
 <section>
 
-## Cocytus
+### Cocytus
 
 The first time you see Cocytus, you could be forgiven for thinking you'd reached the very edge of Dis. The pit is dozens of miles wide and several times as deep. At some point in the dim and distant past, a fragile alliance of tribes put their slaves to work digging a quarry. Why they did this is lost to time but many believe it was an attempt to escape Dis. Perhaps those tribes hoped that if they dug far enough, they'd eventually tunnel their way out of Hell.
 
@@ -69,7 +69,7 @@ If you have the numbers to do it, Cocytus is still a valuable place to settle. J
 
 <section>
 
-## The Pale Witch
+### The Pale Witch
 
 I've told you about The Slaughterman previously but Hell has other legendary figures, each with their own sobriquets: The Ripper, The Grim Doctor, The Tyrant and many more. So far, I've only encountered one of these figures. During my last stay in Hell, I came across The Pale Witch.
 

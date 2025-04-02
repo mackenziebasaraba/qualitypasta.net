@@ -28,7 +28,7 @@ Even so, there are places in Dis that you should know about. Let's do a little s
 
 <section>
 
-## Skin Street
+### Skin Street
 
 Allow me to tell you about the first time I saw Skin Street. I dropped out of my birthing sac onto the road, stood straight back up and got myself ready to fight. Nobody was there. Not one single person was out on a street that stretched for miles in either direction. I relaxed a little and took a look around.
 
@@ -50,7 +50,7 @@ If you find yourself on Skin Street, you're going to have to think fast. Forget 
 
 <section>
 
-## Perdition Farms
+### Perdition Farms
 
 You're going to be chased in Hell, that's unavoidable. At some point, you'll stumble into somebody bigger than you or you'll find yourself outnumbered. Forget about a fair fight, if somebody can take you down without you fighting back, you bet that's what they'll do.
 
@@ -76,7 +76,7 @@ Look, I can't force you to stay out of Perdition Farms. I can only offer advice.
 
 <section>
 
-## The Boneyard
+### The Boneyard
 
 So maybe you're thinking to yourself, "Hey. I'm the kind of nutjob who'd join a cult. Is there anything in Hell for me?"
 

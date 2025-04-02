@@ -27,7 +27,7 @@ What I *can* do is give you a bit of information about some of the damned.
 
 <section>
 
-## The Slaughter Man
+### The Slaughter Man
 
 Take a moment to think about all the celebrities you know. How many of them do you reckon would do well in Dis? Not many, I'll wager. Perhaps none. Fame and fortune on Earth doesn't count for shit when you're dead. Very few people are strong enough, mean enough and downright psychotic enough to earn a reputation in Hell. Those few who have what it takes are people you never want to meet.
 
@@ -47,7 +47,7 @@ I'd guess that the only one who knows the truth is the Slaughter Man himself and
 
 <section>
 
-## Hellhounds
+### Hellhounds
 
 How about a little story?
 
@@ -77,7 +77,7 @@ That day, I learned two things about the Hellhounds, the people who lose their m
 
 <section>
 
-## The Surgeons
+### The Surgeons
 
 Modern doctors rarely thrive in Hell. Academia and reliance on technology don't leave you in the best state to endure the endless violence and brutality.
 
@@ -107,7 +107,7 @@ Freelancers aren't worth the risk.
 
 <section>
 
-## Cambions
+### Cambions
 
 I'll be honest with you here, I don't know if cambions actually exist. What I'm going to tell you is something that somebody else told me. It's up to you to decide if it's true or not. Personally, I really fucking hope it isn't.
 
