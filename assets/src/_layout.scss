@@ -3,7 +3,7 @@
   margin-left: auto;
   margin-right: auto;
   padding-left: 12.5%;
-  max-width: 1400px;
+  max-width: 1300px;
   counter-reset: sidenote-counter;
 
   article {
@@ -135,7 +135,7 @@
 
 
 
-@media (max-width: 1300px) {
+@media (max-width: 1200px) {
   .prose-page {
     width: 95%;
     padding-left: 5%;
