@@ -9,7 +9,7 @@
 }
 
 @mixin small-text {
-  font-size: #{fluid(12px, 14.7361px)};
+  font-size: #{fluid(12px, 16.509px)};
   line-height: 1.4;
 }
 
@@ -26,19 +26,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: #{fluid(24px, 50px)};
+  font-size: #{fluid(24px, 48.026px)};
   margin-top: 2rem;
   font-family: var(--header-font);
   font-weight: bold;
 }
 
 h2 {
-  font-size: #{fluid(20.9659px, 36.8403px)};
+  font-size: #{fluid(20.9659px, 33.018px)};
   margin-top: 2.2rem;
 }
 
 h3 {
-  font-size: #{fluid(18.3154px, 27.1442px)};
+  font-size: #{fluid(18.3154px, 25.514px)};
   margin-top: 2rem;
 }
 
