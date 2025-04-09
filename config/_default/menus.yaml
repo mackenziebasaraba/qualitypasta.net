@@ -1,0 +1,35 @@
+  main:
+    - name: Creepypastas
+      identifier: creepypasta
+      url: /creepypasta/
+      weight: 10
+    - name: All Stories
+      url: /creepypasta/
+      identifier: all-stories
+      parent: creepypasta
+    - name: New
+      url: /new/
+      identifier: new
+      parent: creepypasta
+    - name: Tags
+      url: /tags/
+      identifier: tags
+      parent: creepypasta
+
+    - name: Submissions
+      identifier: submissions
+      url: /submissions/
+      weight: 20
+    - name: Story Submissions
+      identifier: story-submissions
+      url: /submissions#story-submissions/
+      parent: submissions
+    - name: Author Pages
+      identifier: author-submissions
+      url: /submissions#author-pages/
+      parent: submissions
+
+    - name: Legal
+      identifier: legal
+      url: /legal/
+      weight: 30

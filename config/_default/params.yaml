@@ -1,0 +1,5 @@
+Nonces: true # I have zero clue what this means, I don't want to enable nonces.
+SiteLive: live
+EmailObfuscation: local
+DeepClone: true
+ShowGitInfo: true

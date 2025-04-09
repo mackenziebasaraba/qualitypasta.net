@@ -1,0 +1,22 @@
+title: qualitypasta.net
+baseURL: https://mackenziebasaraba.github.io/
+
+timeZone: America/Edmonton
+languageCode: en
+
+enableGitInfo: true
+enableRobotsTXT: true
+
+pagination:
+  paperSize: 4
+
+rssLimit: 15
+
+summaryLength: 30
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+metaDataformat: yaml
+uglyURLS: false
+timeout: 360s
