@@ -49,27 +49,27 @@ I told my friend that we should have lunch sometime, and headed home. I was maki
 
 I managed to break it open and separate several of its pieces, and eventually the Micro SD card fell out from its slot. It was perfectly readable and full of video files, which I transferred to my computer and organized by date. There were 23 in all, most recorded over the course of two days in December 2013. With a cold, quiet winter outside my window, I turned up the heat, brewed some coffee, and went through the files, knowing nothing about the camera’s owner or what they experienced when I began. I will summarize the portions that are more mundane or uneventful, and fully transcribe the rest.
 
-#### File #1
+### File #1
 
 Recorded on a chilly morning, with the operator obviously testing camera settings outside their house. No address can be seen, and the surroundings are typical suburbia, making the location difficult to identify. There is snow on the ground. It starts with the operator saying “nice” as they zoom out on their new camera’s now-empty box. They’re inside their messy car, and they focus on the house for several seconds before the video ends.
 
-#### File #2
+### File #2
 
 The file created date indicates that this one was recorded just a couple hours later. A young woman, around 30, is watching a pot boil on a stove. She’s a small brunette with a bubbly attitude and big, blue eyes. I quickly discern that this is the operator’s girlfriend; they’re both happy and energetic, like they have their whole lives ahead of them. Definitely not married, and they’ve probably only been together a few months. I learn both of their names as the young man teases her a bit with the camera, and she remarks that she hopes he didn’t spend too much on the new toy. I’m not going to share their real names, so let’s just call them Mike and Jenna. They clearly really like each other, and the clip ends after he tells her, “This is a lot better than the old one. The mall videos are going to look great.” Jenna stirs some stovetop sauce and smiles.
 
-#### File #3
+### File #3
 
 Mike records some football in the yard at another house. Even though the clip was made only a week after the previous, there’s no snow present. In fact, everyone is running around in t-shirts, making it obvious that this was filmed much further south, away from cold weather. It’s a Thanksgiving gathering, and Mike is filming his three younger cousins toss around the old pigskin outside, trying his hand at some “sporty” action shots. It keeps going for about ten minutes, and friendly banter is shared among the family members. The cousins seem to like Mike, even as he keeps denying their requests to join in. At the end, Jenna walks out of the front door and tells everyone that the meal is ready.
 
-#### File #4
+### File #4
 
 Mike and Jenna visit a local mall in the area on Black Friday. It’s large, with two floors, and doing well. The place is packed, and Mike gets a few minutes of the mall Santa and the line of kids waiting to see them. Jenna looks at the camera and smiles again. Mike comments that he hasn’t been to a mall this busy in years. It definitely makes me nostalgic for the pre-pandemic days.
 
-#### File #5
+### File #5
 
 Mike is seen on video for the first time at the mall, ten minutes later. Jenna gets in some framing practice. Mike tries to humor her with grandiose gestures, like he’s introducing the place to an adoring, large audience. He says some things about the mall, but the crowds drown him out. The camera isn’t really known for its audio recording quality. This lasts several minutes as Jenna gets used to the device and how to hold it steady. Towards the end, she recommends getting some sort of mount for it, which it was designed to be used with. Mike agrees.
 
-#### File #6
+### File #6
 
 Things begin to get interesting. It’s now December 15, and Jenna is doing another camera test around sunset. Mike is seen crossing the frame several times as he moves about and she pans the camera. They’re getting footage of the front of Sleepy Pines Mall, which has just recently closed. Snow covers the neglected parking lot. Mike tries the door and looks frustrated that it’s locked. I hear the agitated version of his voice, as he remarks that they “should’ve come yesterday, now it’s too late.”
 
@@ -77,7 +77,7 @@ Jenna assures him that there must still be some way in, that someone had forgott
 
 I recheck the closure date of Sleepy Pines, which was December 14. They had just missed their chance to legally or easily get inside and film a dead mall. Mike sounds ready to give up, mentioning how well their previous trip went to another mall in the region, and that they are “never going to get their subscriber count up at this rate.” Jenna isn’t so despondent. She wants to make her guy happy, and she mentions that since it took an hour to get out here, they should at least try to get in. Mike sighs, nods, and smiles.
 
-#### File #7
+### File #7
 
 Shot a half-hour later, and it’s now dark. Jenna is holding the camera, getting a selfie of both of them. They’re under a buzzing wall light somewhere on the side of the mall, near a cracked-open service door. They both look pleased, but it’s clear that they’re still amateurs at the newest hobby they want to do together.
 
@@ -89,7 +89,7 @@ He opens the door and beckons in the viewer, while Jenna snaps the camera into a
 
 Most of the mall’s lights are still going, although the mural is bathed in shadow, giving its already creepy staring faces an ominous presence in the nearly empty building. For several minutes, the couple of explorers walk around, getting footage of the vacated stores. They reach the other end of the mall and head back to where they began, saying very little as they collect footage. The clip ends with a ten-second hold on the mural, during which Mike can be heard laughing after Jenna remarks, “yeah, that’s a little scary.”
 
-#### File #8
+### File #8
 
 The two definitely don’t have a script. As they perform a longer second walkthrough, they chat idly about how they feel about the place and experiences from past visits to other malls, just to fill dead air. Jenna is at least a competent cinematographer, even if her boyfriend leaves much to be desired in the information and anecdote side of things. If they weren’t planning to add some interesting voiceover narration in post, they would have two very dull videos on their hands.
 
@@ -117,7 +117,7 @@ But seeing their inactivity only all but confirms my worries that something bad 
 
 On a second look at the last few minutes of this file, I notice two pink pixels in random spots of the video. I know it’s a sign of sensor damage, and I trace it back to when Jenna focused the camera into the dark hallway. After thirty seconds, one dead pixel shows up. A little later, the next arrives. It’s as if there’s something at the end of that corridor that is emitting a damaging, invisible light or other energetic phenomena which steadily overloads the camera sensor. But I don’t know what else could do such a thing, other than a powerful laser, or radiation. Eagerly, I move onto the next clip.
 
-#### File #9
+### File #9
 
 The dead pixels are here to stay. They’re present throughout the video.
 
@@ -157,7 +157,7 @@ The shot lingers a few moments longer, before Mike looks fed up and starts appro
 
 I guess every relationship has arguments, but it’s a strange thing to have a fight about. It almost sounds like Jenna felt something was “calling” to her.
 
-#### File #10
+### File #10
 
 Mike now stands in front of the dark hallway, although now with the sunlight coming in through the nearby skylight, it’s no longer pitch-black. Mike looks like he’s under just a little bit of duress. But I understand, knowing myself that sometimes you just have to do what your significant other wants.
 
@@ -211,7 +211,7 @@ I don’t think Mike and Jenna saw them before his phone light suddenly cut off,
 
 After re-watching the entire clip several times, I close the video and try to wrap my head around what I just saw. I almost dread finding out what happens next, and I delay myself from opening the next file by refilling my coffee. It’s around midnight when I move on, to a recording made three hours after the last.
 
-#### File #11
+### File #11
 
 I open the file with no expectations, and it right away defies explanation. While the smattering of dead pixels lingers, it’s as if the past trauma the couple just experienced isn’t a thought in their minds. And at first, it’s like they’ve gone to another location—and put on some new clothes. Or rather, *old* clothes, because it looks like Mike pulled a wardrobe out of the late 80s and changed inside of a brightly-lit dressing room. All in the span of a few hours.
 
@@ -249,7 +249,7 @@ Jenna begins to cry, and the camera points down at the floor. Mike can be heard 
 
 I go directly to the next one.
 
-#### File #12
+### File #12
 
 It’s a few minutes later. The camera is now pointed toward the main thoroughfare of Sleepy Pines, past the Dillard’s entrance. The shot lasts for about thirty seconds, during which dozens of shoppers walk by, many of them wordlessly glancing at the camera for a moment. Mike then walks into frame and guides Jenna out into the mall, though her movements show she’s still reluctant. I pull myself and my chair closer to my monitor and watch intently.
 
@@ -287,7 +287,7 @@ It’s genuine, traditional Muzak. Those light co-opted renditions of pop music 
 
 Mike sighs. He doesn’t want another argument; he wants to explore what he thinks is the past, some small piece of his own childhood. The shot lasts another few seconds on his impatient face before the camera pans down. I get a look at Jenna’s shoes to see that they’ve turned into a pair of red high-tops.
 
-#### File #13
+### File #13
 
 This clip goes on for over ten minutes, and it’s a proper mall tour. Jenna quietly films every store they pass without argument, while Mike tries to provide some commentary. But he’s often distracted, overwhelmed by amazement every time he looks into a shop, or sees a person walk by in nostalgic clothing, or finds a treasured piece of media from the era. He forces Jenna to spend several minutes just in Sam Goody, so she can get every audio cassette, early CD, or video tape in at least a few frames of video. All the while, Mike is overly excited and Jenna seems wary of the crowds. The shoppers almost approach an uncanny valley. They *look* like regular people, but they act like emotional automatons, staring vapidly at the two like they are intruders in their home. She notices them, as do I, but Mike hardly seems to consider whether or not something is off with everyone other than himself and his girlfriend. He’s under the effects of a siren call brought about by his love for a romanticized past.
 
@@ -313,7 +313,7 @@ Jenna grumbles and starts to pressure him to focus on getting themselves home, b
 
 The clip ends, as abruptly as I’ve come to expect.
 
-#### File #14
+### File #14
 
 The next file was created four hours later. I’m seriously concerned about what might have happened in the time in between before I open it.
 
@@ -373,13 +373,13 @@ And, actually, Mike seems to have a point, because the actor simply keeps repeat
 
 The camera pans down to the floor and the clip ends.
 
-#### File #15
+### File #15
 
 It starts with Mike midway through another swing of the tripod against a glass door. He’s been at it for a while, based on his apparent exhaustion. He lands the heavy, metallic tripod plate against the glass several times, but he has yet to crack it. The glass doesn’t even seem to have any give to it; he might as well be hitting a brick wall. The vintage cars and trucks in the parking lot outside *seem* real, but I’m not sure. There are no people outside in the darkness, yet the couple are trapped in the mall with hundreds of them, so everything beyond its walls may not even have reason to exist. Whatever time travel trickery is going on, it likely can’t extend past the building in which it was triggered.
 
 Jenna can be heard quietly sobbing. She pans to a trash can on the floor, knocked over, and she gives it a kick, giving me the impression that she had used it to join in the effort before she gave up and started filming again. I also notice that the Muzak is now completely gone, replaced by a monotone buzzing sound. Mike hits the door twelve times in all, working up a sweat and eventually hopelessly collapsing to the floor. The recording of his effort then ends.
 
-#### File #16
+### File #16
 
 The camera sits on a table in the food court. It’s getting late, but it looks like all of the places are still open. The pair have cups of soda and slices of pizza on paper plates in front of them, but they both look hesitant to eat. It isn’t that they’re only losing hope of escape—they’re also *afraid* of the food. I can’t blame them. They’re also mostly in shadow, now lit only by the neon lights.
 
@@ -409,7 +409,7 @@ He takes a bite, chews, and eventually swallows. Deciding it tastes edible enoug
 
 They sit, drink, and eat quietly for another minute before the video ends.
 
-#### File #17
+### File #17
 
 This one takes place entirely inside the mall’s old arcade, which closed in 1998. The only sources of light are the flickering cabinet screens of games on their demonstration modes, but there are so many that the place remains the brightest locale of the mall at this point.
 
@@ -425,7 +425,7 @@ He decides to let Jenna be and slumps down onto the carpet. Several cabinet scre
 
 Nothing shows up, at least that he can see, but he still ends up running into a small utility closet—without alerting his girlfriend to a possible danger—and closes the door. Following another few seconds of a pure black image filled with digital noise and dead pixels, the video ends. I assume he eventually fell asleep in that cramped space, and that the experience was beginning to wear on his sanity by this point.
 
-#### File #18
+### File #18
 
 The camera is aimed up at one of the skylights, where early morning light is coming through. It’s possibly about 8:00 AM or so, meaning Mike and Jenna are nearing twenty-fours spent in the mall. Mike pans down to show the mural and the fountain in front of it, where Jenna scoops up a handful of water and washes her face. Around her are the mindless shoppers, all of them still idle despite the fact that the place seems to have never opened or closed.
 
@@ -453,7 +453,7 @@ The camera swings around, and I see the perfume lady aggressively approaching at
 
 The large woman still has a perfume bottle in one hand, but there’s no telling what she really wants. Not ready to find out, the couple start running.
 
-#### File #19
+### File #19
 
 An hour after the previous video ended, Jenna gets the camera going again to show Mike crouching down between some washing machines and peeking around the corner of one of the big white cubes. They’re somewhere in the Sears store.
 
@@ -503,7 +503,7 @@ He tries to act tough for his girlfriend, but he can’t back it up. After he ag
 
 I’m not sure whether she was just standing there looking menacing, or started chasing them again; the clip ends just as the couple start running.
 
-#### File #20
+### File #20
 
 With only four files left to view, I know that Mike and Jenna’s journey is coming to an end. This one opens with Mike holding the camera at himself, and behind him are boxes of shoes—he’s at a Payless or a Footlocker. He has his free arm wrapped around the camera tripod from earlier, which rests against his shoulder. He must consider it the best weapon he could find.
 
@@ -543,7 +543,7 @@ He points the camera straight up for about a full minute, leaving a bit of his h
 
 I don’t know how long she stayed in the fountain, since the video ends a moment later, with Mike trying to be considerate and offering assuring words.
 
-#### File #21
+### File #21
 
 Over two hours later, Mike gives me a shot of the skylight again—only now, the dark particles are burning away into a thick mist that almost fully obscures the sunlight. It moves like boiling water, forming a wriggling cloud all across the top half of Sleepy Pines. The writhing mass reminds me of the worms crawling on the wall from earlier.
 
@@ -597,7 +597,7 @@ He works up the confidence to say, “The next time we turn this thing on… we�
 
 They both lock eyes and share a brief kiss before this video ends.
 
-#### File #22
+### File #22
 
 Unfortunately, Mike lied. Created another two hours later, this one starts with *another* shot of the skylights and part of the wall right beneath them.
 
@@ -649,7 +649,7 @@ In the last ten seconds, after the foam stops pouring out of the creature’s mo
 
 With over half of the video’s pixels either dead or showing nothing but the blackness the lens is sinking into, the clip finally ends on its own, likely because the camera is too badly damaged to continue recording.
 
-#### File #23
+### File #23
 
 I want a conclusion, but I should have expected that I wouldn’t get one. My PC never generated a thumbnail for this final file, so I knew in advance that there would be something wrong with it. The warning about it being damaged doesn’t deter me from trying alternate ways to see inside it. The file size is over 25 MB, so there has to be *something* within its bits.
 
