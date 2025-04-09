@@ -1,0 +1,16 @@
+{{ range first 5  .Site.Pages.ByLastmod }}
+{{- if  .GitInfo -}}
+<section>
+    <p>
+        <strong><a href="{{ .RelPermalink }}">{{ .Title | title }}</a></strong><br />
+        {{ .GitInfo.Subject }} &mdash; {{ .GitInfo.CommitDate.Format "2006-01-02"}}<br />
+        <abbr>{{ .GitInfo.AbbreviatedHash }}</abbr> by {{ .GitInfo.AuthorName }}
+    </p>
+    {{- with .GitInfo.Body -}}
+    <p>
+        {{ . | markdownify }}
+    </p>
+    {{- end -}}
+</section>
+{{- end -}}
+{{- end -}}
