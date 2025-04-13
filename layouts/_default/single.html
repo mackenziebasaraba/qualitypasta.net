@@ -1,10 +1,8 @@
 {{- define "main" -}}
-<main>
-    <div class="prose-page">
         <header>
           <h1 id="{{ .Title }}">{{ with .Params.titleStyled }}{{ . | markdownify }}{{ else }}{{ .Title | markdownify }}{{ end }}</h1>
         </header>
-        <div></div>
+        <main class="main-content">
         <article>
             {{ .Content }}
             {{ $archive := .Site.GetPage "/creepypasta" }}
@@ -28,6 +26,5 @@
         <div class="information">
             {{ partial "information.html" . }}
         </div>
-    </div>
-</main>
+        </main>
 {{- end -}}

@@ -1,0 +1,102 @@
+// The new layout will be a simple three panel design.
+// Left is sight navigation
+// Centre is prose
+// Right is information (author, toc, git history, tags, etc.)
+
+@use "functions" as *;
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, code, figure picture,
+del, dfn, em, img, q, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, figure, figcaption,
+table, caption, tbody, tfoot, thead, tr, th, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-size: 100%;
+  font-family: inherit;
+  vertical-align: baseline; max-width: 100%;
+}
+
+html, body {
+  text-rendering: optimizeLegibility;
+}
+
+// Layout variables
+$article: 800px;
+$navigation-menu: 260px;
+$information-menu: 400px;
+$gap: var(--font-scale-h1);
+
+.main-grid {
+  display: grid;
+  grid-template-columns: calc(#{$navigation-menu} + #{$gap} + #{$gap}) calc(#{$article} + #{$information-menu} + #{$gap});
+  gap: #{$gap};
+}
+
+.site-nav {
+  width: #{$navigation-menu};
+  max-height: 100vh;
+  position: sticky;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 0;
+  box-sizing: border-box;
+  overflow-y: auto;
+
+  .logo {
+    margin-top: 0;
+    margin-bottom: 0;
+
+    img {
+      padding-left: 1rem;
+      padding-right: 1rem;
+      max-width: 100%;
+      height: auto;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+  ul a {
+    display: block;
+    padding: 0.75rem 1.5rem;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.2s ease-in-out;
+
+    &:hover {
+      background-color: #eee;
+    }
+  }
+}
+
+.main-content {
+  display: grid;
+  grid-template-columns: #{$article} #{$information-menu};
+  gap: #{$gap};
+}
+
+figure {
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+}
+
+figcaption {
+  text-align: center;
+  vertical-align: baseline;
+  position: relative;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  min-width: 50%;
+}
+
+

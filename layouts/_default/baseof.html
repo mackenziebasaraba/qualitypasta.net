@@ -4,17 +4,17 @@
         {{ partial "head.html" . }}
     </head>
     <body>
-        <div class="wrapper">
-            {{ partial "header.html" . }}
-            {{- block "main" . -}}
-            {{- end -}}
-            <footer>
-                {{ partial "footer.html" . }}
-            </footer>
+        <div class="main-grid">
+            {{ partial "site-header.html" . }}
+            <div class="wrapper">
+                {{- block "main" . -}}
+                {{- end -}}
+                <footer id="site-footer">
+                    {{ partial "footer.html" . }}
+                </footer>
+            </div>
         </div>
     </body>
-    <script>
     {{- block "script" . -}}
     {{- end -}}
-    </script>
 </html>

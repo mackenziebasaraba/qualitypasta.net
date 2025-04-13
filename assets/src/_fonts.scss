@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+$serif-fonts: Georgia, "Palatino Linotype", "Palatino LT STD", Palatino, "Book Antiqua", "Times New Roman", Cambria, "Liberation Serif", "DejaVu Serif", "Bitstream Vera Serif", "Nimbus Roman No9 L", "FreeSerif", "TeX Gyre Schola", serif, "Noto Emoji";
+$sans-serif-fonts: Inter, "Helvetica Neue", Helvetica, "Segoe UI", Roboto, "Noto Sans", "Lucida Grande", "Open Sans", system-ui, sans-serif, "Noto Emoji";
+$mono-fonts: Consolas, "Liberation Mono", Menlo, Courier, monospace, "Noto Emoji";
+
+:root {
+  --serif-header-font: #{$serif-fonts};
+  --serif-paragraph-font: #{$serif-fonts};
+  --serif-tab-font: #{$serif-fonts};
+
+  --sans-serif-header-font: #{$serif-fonts};
+  --sans-serif-paragraph-font: #{$sans-serif-fonts};
+  --sans-serif-tab-font: #{$sans-serif-fonts};
+
+  --header-font: var(--serif-header-font);
+  --paragraph-font: var(--serif-paragraph-font);
+  --tab-font: var(--serif-tab-font);
+}

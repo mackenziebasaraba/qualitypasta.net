@@ -1,0 +1,23 @@
+<header class="site-nav">
+    <nav aria-label="Main site navigation">
+        <figure class="logo">
+            <a href="{{ .Site.BaseURL }}">
+                <img class="threshhold invert" src="/logo.gif">
+            </a>
+            <figcaption>Serving you the internet's finest pasta!</figcaption>
+        </figure>
+        <div class="header-information">
+            {{ partial "nav.html" . }}
+        </div>
+        <div class="buttons">
+            {{ partial "buttons/text-size-selector.html" . }}
+            <script>
+                {{ partial "js/text-size-selector.js" | safeJS }}
+            </script>
+            {{ partial "buttons/font-type-selector.js" . }}
+            <script>
+                {{ partial "js/font-type-selector.js" | safeJS }}
+            </script>
+        </div>
+    </nav>
+</header>

@@ -1,0 +1,125 @@
+@use "functions" as *;
+
+:root {
+  --font-scale-large-h1: #{fluid(32px, 50px)};
+  --font-scale-large-h2: #{fluid(25.3984px, 36.8403px)};
+  --font-scale-large-h3: #{fluid(20.1597px, 27.1442px)};
+  --font-scale-large-p:  #{fluid(16px, 20px)};
+  --font-scale-large-sm: #{fluid(12.699px, 14px)};
+
+  --font-scale-normal-h1: #{fluid(32px, 45px)};
+  --font-scale-normal-h2: #{fluid(25.3984px, 33.1563px)};
+  --font-scale-normal-h3: #{fluid(20.1587px, 24.4298px)};
+  --font-scale-normal-p:  #{fluid(16px, 18px)};
+  --font-scale-normal-sm: #{fluid(12.699px, 14px)};
+
+  --font-scale-small-h1: #{fluid(32px, 40px)};
+  --font-scale-small-h2: #{fluid(25.3984px, 29.4723px)};
+  --font-scale-small-h3: #{fluid(20.1587px, 21.7153px)};
+  --font-scale-small-p:  #{px-to-rem(16px)};
+  --font-scale-small-sm: #{fluid(12.699px, 14px)};
+
+// I need to write Javascript to enable users to swap
+// between the three presets. Until then, I'll just set
+// it to the "normal" size.
+
+  --font-scale-h1: var(--font-scale-normal-h1);
+  --font-scale-h2: var(--font-scale-normal-h2);
+  --font-scale-h3: var(--font-scale-normal-h3);
+  --font-scale-p:  var(--font-scale-normal-p);
+  --font-scale-sm: var(--font-scale-normal-sm);
+}
+
+@mixin header-text {
+  font-weight: bold;
+  line-height: 1.2;
+  font-family: var(--header-font);
+}
+
+@mixin large-margins {
+  margin-top: var(--font-scale-h1);
+  margin-bottom: var(--font-scale-h1);
+}
+
+@mixin normal-text {
+  font-family: var(--paragraph-font);
+  font-size: var(--font-scale-p);
+  line-height: 1.6;
+}
+
+@mixin normal-margins {
+  margin-top: var(--font-scale-p);
+  margin-bottom: var(--font-scale-p);
+}
+
+@mixin small-text {
+  font-family: var(--paragraph-font);
+  font-size: var(--font-scale-sm);
+  line-height: 1.4;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @include header-text;
+}
+
+h1 {
+  font-size: var(--font-scale-h1);
+  margin-top: var(--font-scale-h1);
+  margin-bottom: var(--font-scale-h1);
+}
+
+h2 {
+  font-size: var(--font-scale-h2);
+  margin-top: var(--font-scale-h2);
+  margin-bottom: var(--font-scale-h2);
+}
+
+h3 {
+  font-size: var(--font-scale-h3);
+  margin-top: var(--font-scale-h3);
+  margin-bottom: var(--font-scale-h3);
+}
+
+p, blockquote, del, dfn, dl, dt, dd, ol, ul, li, label, legend, table,
+caption, tbody, tfoot, thead, tr, th, td {
+  @include normal-text;
+}
+
+p, ol, ul, dl, footer, video, details {
+  @include normal-margins;
+}
+
+blockquote, hr, figure {
+  @include large-margins;
+}
+
+strong, bold,  dt {
+  font-weight: bold;
+}
+
+em, blockquote, cite, i {
+  font-style: italic;
+}
+
+$padding-indent: 36px;
+
+article {
+  blockquote, dd, ol, ul {
+    -webkit-padding-start: #{$padding-indent};
+    padding-inline-start: #{$padding-indent};
+  }
+}
+
+figure {
+  text-align: center;
+}
+
+figcaption {
+  @include small-text;
+}
+
+.site-nav, .information {
+  p, dd, dt {
+    @include small-text;
+  }
+}

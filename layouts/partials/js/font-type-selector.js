@@ -25,7 +25,6 @@ function applyFontFamily(type) {
   localStorage.setItem('preferredFontFamily', type);
 }
 
-// Load preferred font family from local storage or default to serif
 const root = document.documentElement;
 const savedFamily = localStorage.getItem('preferredFontFamily') || 'serif';
 applyFontFamily(savedFamily);

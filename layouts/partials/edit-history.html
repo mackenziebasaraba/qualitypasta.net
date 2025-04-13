@@ -1,0 +1,5 @@
+<p id="edit history" data-pagefind-ignore>
+  {{- if .GitInfo -}}
+  Latest edit (<a href="https://github.com/mackenziebasaraba/qualitypasta.net/commit/{{ .GitInfo.Hash }}" title="Latest commit for this page" rel="noopener"><code>{{ .GitInfo.AbbreviatedHash }}</code></a>)
+  {{ end }}
+</p>

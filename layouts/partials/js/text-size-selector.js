@@ -32,13 +32,11 @@ document.addEventListener("DOMContentLoaded", function () {
       root.style.setProperty(key, vars[key]);
     });
 
-    // Update button state to active
     fontButtons.forEach(btn => {
       btn.classList.toggle('active', btn.getAttribute('data-font-size') === size);
     });
   }
 
-  // Check localStorage for preferred font size, otherwise use normal.
   const savedSize = localStorage.getItem('preferredFontSize') || 'normal';
   applyFontSize(savedSize);
 

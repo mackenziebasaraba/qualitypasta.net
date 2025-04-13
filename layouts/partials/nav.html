@@ -1,8 +1,43 @@
-<ul class="navMenu">
+<ul class="site-nav">
     {{- $currentPage := . -}}
     {{- range .Site.Menus.main -}}
-    <li>
-        <a{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} class="active"{{ end }} href="{{ .URL }}"{{ if .HasChildren }} data-toggle="dropdown" aria-expanded="false"{{ end }}>{{ .Name }}</a>
+    <li class="menu-item{{ if .HasChildren }} has-children{{ end }}">
+        <a{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} class="active"{{ end }} href="{{ .URL }}">
+            {{ .Name }}
+        </a>
+        {{ if .HasChildren }}
+        <ul class="submenu">
+            {{- range .Children }}
+            <li>
+                <a href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{- end }}
+        </ul>
+        {{ end }}
     </li>
     {{- end -}}
 </ul>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const menuItems = document.querySelectorAll('.site-nav li');
+
+        menuItems.forEach(function(item) {
+            item.addEventListener('mouseenter', function() {
+                const submenu = item.querySelector('.submenu');
+                if (submenu) {
+                    submenu.style.display = 'block'; // Shows the submenu
+                    submenu.style.transition = 'height 0.2s ease-in-out'; // Add a smooth transition effect
+                    console.log("Opened navigation sub menu.");
+                }
+            });
+
+            item.addEventListener('mouseleave', function() {
+                const submenu = item.querySelector('.submenu');
+                if (submenu) {
+                    submenu.style.display = 'none'; // Hides the submenu
+                    console.log("Closed navigation sub menu.");
+                }
+            });
+        });
+    });
+</script>
